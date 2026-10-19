@@ -1,61 +1,194 @@
 {
- "atualizado": "2026-10-19T15:50:17.967Z",
+ "atualizado": "2026-10-19T18:58:35.952Z",
  "itens": [
+  {
+   "titulo": "Debate com Lorenzo Pazolini e Ricardo Ferraço para governo do ES na TV Gazeta",
+   "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/debate-lorenzo-pazolini-ricardo-ferraco-governo-espirito-santo.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-10-19T18:51:30.000Z"
+  },
+  {
+   "titulo": "Em 15 dias, chove menos de 20% do previsto para outubro em Rio Branco",
+   "link": "https://g1.globo.com/ac/acre/noticia/2026/10/19/chuvas-primeira-quinzena-outubro-2026-rio-branco.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-10-19T18:50:08.000Z"
+  },
+  {
+   "titulo": "Crédito rural na Safra 26/27: como proteger caixa e margem",
+   "link": "https://g1.globo.com/pr/parana/especial-publicitario/agrinvest-alem-da-porteira/noticia/2026/10/19/credito-rural-na-safra-2627-como-proteger-caixa-e-margem.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-10-19T18:48:41.000Z"
+  },
+  {
+   "titulo": "Tecnologia organiza a gestão do investimento em short stay",
+   "link": "https://g1.globo.com/pr/parana/especial-publicitario/dancon-mercado-imobiliario-e-investimentos/noticia/2026/10/19/tecnologia-organiza-a-gestao-do-investimento-em-short-stay.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-10-19T18:47:01.000Z"
+  },
+  {
+   "titulo": "El Niño muito forte coloca Cabo Frio em alerta para chuvas intensas",
+   "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/19/el-nino-muito-forte-coloca-cabo-frio-em-alerta-para-chuvas-intensas.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-10-19T18:46:17.000Z"
+  },
+  {
+   "titulo": "Pai e filho ficam ilhados em rio após barco ser levado pela correnteza enquanto montavam acampamento em MG",
+   "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/19/pai-e-filho-ficam-ilhados-em-rio-apos-barco-ser-levado-pela-correnteza-enquanto-montavam-acampamento-em-mg.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-10-19T18:45:26.000Z"
+  },
+  {
+   "titulo": "Mouses gamer em promoção: confira uma seleção de opções para turbinar seu setup",
+   "link": "https://olhardigital.com.br/2026/10/19/reviews/mouses-gamer-em-promocao-confira-uma-selecao-de-opcoes-para-turbinar-seu-setup/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-19T18:34:39.000Z"
+  },
+  {
+   "titulo": "Como baixar um app na TV Samsung",
+   "link": "https://tecnoblog.net/responde/como-baixar-um-app-na-tv-samsung/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-10-19T18:33:37.000Z"
+  },
+  {
+   "titulo": "Operadoras europeias se unem para enfrentar a Starlink",
+   "link": "https://tecnoblog.net/noticias/operadoras-europeias-se-unem-para-enfrentar-a-starlink/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-10-19T18:26:38.000Z"
+  },
+  {
+   "titulo": "Melhor TV de 50 polegadas: 10 modelos para comprar em 2026",
+   "link": "https://tecnoblog.net/guias/melhor-tv-50-polegadas/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-10-19T18:23:38.000Z"
+  },
+  {
+   "titulo": "Apple pode ter de pagar mais em caso de patente com indenização de US$ 5,7 bilhões",
+   "link": "https://g1.globo.com/tecnologia/noticia/2026/10/19/apple-pode-ter-de-pagar-mais-em-caso-de-patente-com-indenizacao-de-us-57-bilhoes.ghtml",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
+   "data": "2026-10-19T18:16:07.000Z"
+  },
+  {
+   "titulo": "Hora de turbinar seu setup: selecionamos ótimos monitores gamer em promoção",
+   "link": "https://olhardigital.com.br/2026/10/19/reviews/hora-de-turbinar-seu-setup-selecionamos-otimos-monitores-gamer-em-promocao/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-19T18:14:39.000Z"
+  },
+  {
+   "titulo": "Zanin pede parecer da PGR e AGU sobre ação do PSD por 2º turno no Rio",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/zanin-pede-parecer-da-pgr-e-agu-sobre-acao-do-psd-por-2-turno-no-rio",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-10-19T18:12:00.000Z"
+  },
+  {
+   "titulo": "Apple prepara evento com possíveis novos MacBooks e iPad mini",
+   "link": "https://olhardigital.com.br/2026/10/19/reviews/apple-prepara-evento-com-possiveis-novos-macbooks-e-ipad-mini/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-19T18:11:41.000Z"
+  },
+  {
+   "titulo": "Após 43 anos, jornalista Christiane Amanpour deixará a CNN americana",
+   "link": "https://g1.globo.com/economia/noticia/2026/10/19/apos-43-anos-christiane-amanpour-deixara-a-cnn-americana.ghtml",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
+   "data": "2026-10-19T17:57:46.000Z"
+  },
+  {
+   "titulo": "Prêmio TV Brasil Petrobras Para Elas anuncia finalistas à revelação",
+   "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/premio-tv-brasil-petrobras-para-elas-anuncia-finalistas-revelacao",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-10-19T17:56:00.000Z"
+  },
+  {
+   "titulo": "Confira o que muda no licenciamento ambiental da aquicultura",
+   "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/confira-o-que-muda-no-licenciamento-ambiental-da-aquicultura",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-10-19T17:55:00.000Z"
+  },
+  {
+   "titulo": "Hora de trocar o notebook: selecionamos ótimas opções em promoção na Amazon",
+   "link": "https://olhardigital.com.br/2026/10/19/reviews/hora-de-trocar-o-notebook-selecionamos-otimas-opcoes-em-promocao-na-amazon-3/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-19T17:54:39.000Z"
+  },
+  {
+   "titulo": "EUA mandam banir inteligência artificial DeepSeek de redes federais",
+   "link": "https://olhardigital.com.br/2026/10/19/inteligencia-artificial/eua-mandam-banir-inteligencia-artificial-deepseek-de-redes-federais/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-19T17:41:46.000Z"
+  },
+  {
+   "titulo": "Motoristas de ônibus fazem paralisação na zona sul de São Paulo",
+   "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/motoristas-de-onibus-fazem-paralisacao-na-zona-sul-de-sao-paulo",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-10-19T17:37:00.000Z"
+  },
+  {
+   "titulo": "CELOL Série A define seis classificados aos playoffs; veja confrontos e datas",
+   "link": "https://olhardigital.com.br/2026/10/19/games-e-consoles/celol-serie-a-veja-os-classificados-confrontos-e-datas-dos-playoffs/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-19T17:34:49.000Z"
+  },
+  {
+   "titulo": "Galaxy Tab S10 Lite (256 GB) alcança menor preço em meses com cupom",
+   "link": "https://tecnoblog.net/achados/galaxy-tab-s10-lite-256-gb-alcanca-menor-preco-em-meses-com-cupom/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-10-19T17:21:52.000Z"
+  },
+  {
+   "titulo": "Chefe do Instagram admite que ainda não sabe como combater deep fakes",
+   "link": "https://tecnoblog.net/noticias/chefe-do-instagram-admite-que-ainda-nao-sabe-como-combater-deep-fakes/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-10-19T16:39:33.000Z"
+  },
+  {
+   "titulo": "Provas de português para estrangeiros começam nesta terça-feira",
+   "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/provas-de-portugues-para-estrangeiros-comecam-nesta-terca-feira",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-10-19T16:24:00.000Z"
+  },
+  {
+   "titulo": "Ministério da Agricultura confirma foco da doença de Newcastle em granja de perus em SC",
+   "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/19/ministerio-da-agricultura-confirma-foco-da-doenca-de-newcastle-em-sc.ghtml",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
+   "data": "2026-10-19T16:20:43.000Z"
+  },
+  {
+   "titulo": "Deputado André Janones é internado com arritmia em São Paulo",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/deputado-andre-janones-e-internado-com-arritmia-em-sao-paulo",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-10-19T15:57:00.000Z"
+  },
   {
    "titulo": "Usuários usam IA para remover anúncios e mudar interfaces de TVs",
    "link": "https://tecnoblog.net/noticias/usuarios-usam-ia-para-remover-anuncios-e-mudar-interfaces-de-tvs/",
    "fonte": "Tecnoblog",
    "categoria": "Tecnologia",
    "data": "2026-10-19T15:41:42.000Z"
-  },
-  {
-   "titulo": "Polícia israelense prende suspeitos de ataques de colonos contra jornalista dos EUA e diplomatas europeus",
-   "link": "https://g1.globo.com/mundo/noticia/2026/10/19/policia-israelense-prende-suspeitos-de-ataques-de-colonos-contra-jornalista-dos-eua-e-diplomatas-europeus.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-10-19T15:40:09.000Z"
-  },
-  {
-   "titulo": "Homem acamado tem 82% do corpo queimado após ter casa invadida por 6 criminosos em SC",
-   "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/19/homem-acamado-corpo-queimado-casa-invadida.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-10-19T15:39:05.000Z"
-  },
-  {
-   "titulo": "Novenário de São Judas Tadeu em Aracaju começa nesta segunda; confira a programação",
-   "link": "https://g1.globo.com/se/sergipe/noticia/2026/10/19/novenario-de-sao-judas-tadeu-em-aracaju-comeca-nesta-segunda-confira-a-programacao.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-10-19T15:38:04.000Z"
-  },
-  {
-   "titulo": "Homem é preso após atropelar e tentar matar companheira em Rio Claro",
-   "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/19/homem-e-preso-apos-atropelar-e-tentar-matar-companheira-em-rio-claro.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-10-19T15:38:01.000Z"
-  },
-  {
-   "titulo": "Zoológico de Salvador divulga calendário de visitas noturnas gratuitas; veja como participar",
-   "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/19/zoologico-de-salvador-divulga-calendario-de-visitas-noturnas-gratuitas-veja-como-participar.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-10-19T15:37:59.000Z"
-  },
-  {
-   "titulo": "Estudante de medicina abre bar em frente à faculdade para ter onde beber com amigos",
-   "link": "https://g1.globo.com/go/goias/noticia/2026/10/19/estudante-de-medicina-abre-bar-em-frente-a-faculdade-para-ter-onde-beber-com-amigos.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-10-19T15:35:47.000Z"
-  },
-  {
-   "titulo": "Anthropic quer barrar IAs apenas diante de riscos extremos",
-   "link": "https://tecnoblog.net/noticias/anthropic-quer-barrar-ias-apenas-diante-de-riscos-extremos/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-10-19T15:31:29.000Z"
   },
   {
    "titulo": "ANPD dá cinco dias para Meta explicar suspensão de contas e remoção de posts",
@@ -65,81 +198,11 @@
    "data": "2026-10-19T15:14:46.000Z"
   },
   {
-   "titulo": "Samsung domina: selecionamos as melhores TVs QLED em promoção na Amazon agora",
-   "link": "https://olhardigital.com.br/2026/10/19/reviews/samsung-domina-selecionamos-as-melhores-tvs-qled-em-promocao-na-amazon-agora/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-19T15:14:39.000Z"
-  },
-  {
-   "titulo": "Dependência da Starlink preocupa governos e expõe poder de Elon Musk",
-   "link": "https://olhardigital.com.br/2026/10/19/ciencia-e-espaco/dependencia-da-starlink-preocupa-governos-e-expoe-poder-de-elon-musk/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-19T15:09:24.000Z"
-  },
-  {
-   "titulo": "Anvisa determina apreensão de lote falsificado de toxina botulínica",
-   "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-determina-apreensao-de-lote-falsificado-de-toxina-botulinica",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-19T14:59:00.000Z"
-  },
-  {
-   "titulo": "Hora de renovar a sala: Smart TVs 4K em promoção na Amazon",
-   "link": "https://olhardigital.com.br/2026/10/19/reviews/hora-de-renovar-a-sala-smart-tvs-4k-em-promocao-na-amazon-69/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-19T14:55:02.000Z"
-  },
-  {
-   "titulo": "Economia cresce 0,5% em agosto após dois meses de recuo, estima FGV",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/economia-cresce-05-em-agosto-apos-dois-meses-de-recuo-estima-fgv",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-19T14:52:00.000Z"
-  },
-  {
-   "titulo": "gamescom latam 2027 abre inscrições para o BIG Festival e propostas de palestras",
-   "link": "https://olhardigital.com.br/2026/10/19/games-e-consoles/gamescom-latam-2027-abre-inscricoes-para-big-festival-e-palestras/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-19T14:33:55.000Z"
-  },
-  {
-   "titulo": "Morre Mãe Senhora de Ewá, liderança do candomblé, aos 104 anos",
-   "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/morre-mae-senhora-de-ewa-lideranca-do-candomble-aos-104-anos",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-19T14:31:00.000Z"
-  },
-  {
-   "titulo": "Galaxy Buds 4 têm promoção histórica com queda de 50% de desconto",
-   "link": "https://tecnoblog.net/achados/galaxy-buds-4-tem-promocao-historica-com-queda-de-50-de-desconto/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-10-19T14:29:38.000Z"
-  },
-  {
-   "titulo": "Hacker usou IA para invadir mais de 100 sites com baixo custo, diz Reuters",
-   "link": "https://olhardigital.com.br/2026/10/19/inteligencia-artificial/hacker-usou-ia-para-invadir-mais-de-100-sites-com-baixo-custo-diz-reuters/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-19T14:29:19.000Z"
-  },
-  {
-   "titulo": "Governo antecipa calendário do Bolsa Família e concentra pagamentos de outubro em 3 dias; entenda",
+   "titulo": "Governo antecipa calendário do Bolsa Família a seis dias do 2º turno; veja as datas",
    "link": "https://g1.globo.com/economia/noticia/2026/10/19/bolsa-familia-pagamentos-calendario.ghtml",
    "fonte": "g1 Economia",
    "categoria": "Economia",
    "data": "2026-10-19T14:21:25.000Z"
-  },
-  {
-   "titulo": "GTA 6 terá centenas de interiores exploráveis e história inspirada em Red Dead Redemption 2",
-   "link": "https://olhardigital.com.br/2026/10/19/games-e-consoles/gta-6-tera-centenas-de-interiores-exploraveis-e-historia-inspirada-em-rdr2/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-19T14:12:25.000Z"
   },
   {
    "titulo": "Ri Happy pede recuperação extrajudicial para renegociar R$ 827 milhões em dívidas",
@@ -147,69 +210,6 @@
    "fonte": "g1 Economia",
    "categoria": "Economia",
    "data": "2026-10-19T14:12:20.000Z"
-  },
-  {
-   "titulo": "Com cacau caro, Lindt troca CEO após piora nas vendas; entenda",
-   "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/19/cacau-chocolate-ceo.ghtml",
-   "fonte": "g1 Economia",
-   "categoria": "Economia",
-   "data": "2026-10-19T14:11:40.000Z"
-  },
-  {
-   "titulo": "TSE dá 24 horas para Meta dar informações sobre igualdade de campanhas",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-da-24-horas-para-meta-dar-informacoes-sobre-igualdade-de-campanhas",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-19T14:05:00.000Z"
-  },
-  {
-   "titulo": "Aproveite: Nintendo Switch 2 entra em oferta relâmpago no Mercado Livre",
-   "link": "https://tecnoblog.net/achados/aproveite-nintendo-switch-2-entra-em-oferta-relampago-no-mercado-livre/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-10-19T14:04:18.000Z"
-  },
-  {
-   "titulo": "Incêndios avançam sobre o oeste do Pará e deixam ar insalubre",
-   "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/incendios-avancam-sobre-o-oeste-do-para-e-deixam-ar-insalubre",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-19T14:03:00.000Z"
-  },
-  {
-   "titulo": "Bolsa Família vai ter regra de transição de dois anos, diz coordenadora de campanha de Flávio Bolsonaro",
-   "link": "https://g1.globo.com/economia/noticia/2026/10/19/bolsa-familia-vai-ter-regra-de-transicao-de-dois-anos-diz-coordenadora-de-campanha-de-flavio-bolsonaro.ghtml",
-   "fonte": "g1 Economia",
-   "categoria": "Economia",
-   "data": "2026-10-19T13:48:07.000Z"
-  },
-  {
-   "titulo": "Galaxy S25 Plus (512 GB) surge por até 10x sem juros no Mercado Livre",
-   "link": "https://tecnoblog.net/achados/galaxy-s25-plus-512-gb-surge-por-ate-10x-sem-juros-no-mercado-livre/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-10-19T13:39:20.000Z"
-  },
-  {
-   "titulo": "Galaxy Watch 8 LTE tem a maior queda que já vimos de 65% OFF na Amazon",
-   "link": "https://tecnoblog.net/achados/galaxy-watch-8-lte-tem-a-maior-queda-que-ja-vimos-de-65-off-na-amazon/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-10-19T13:21:08.000Z"
-  },
-  {
-   "titulo": "Pagamentos de outubro do Bolsa Família começam nesta segunda",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/pagamentos-de-outubro-do-bolsa-familia-comecam-nesta-segunda",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-19T13:04:00.000Z"
-  },
-  {
-   "titulo": "China cresce 4,5% com exportações em alta, mas crise imobiliária ameaça ritmo",
-   "link": "https://g1.globo.com/economia/noticia/2026/10/19/china-cresce-45percent-com-exportacoes-em-alta-mas-crise-imobiliaria-ameaca-ritmo.ghtml",
-   "fonte": "g1 Economia",
-   "categoria": "Economia",
-   "data": "2026-10-19T12:36:43.000Z"
   }
  ]
 }
