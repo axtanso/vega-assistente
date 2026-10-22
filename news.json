@@ -1,47 +1,166 @@
 {
- "atualizado": "2026-10-22T09:52:10.074Z",
+ "atualizado": "2026-10-22T13:01:42.627Z",
  "itens": [
   {
-   "titulo": "Assista ao Bom Dia Cidade Campinas",
-   "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/assista-ao-bom-dia-cidade-campinas.ghtml",
+   "titulo": "Cidades do Norte e Noroeste de MG têm locais de votação alterados para o 2º turno",
+   "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/22/cidades-do-norte-e-noroeste-de-mg-tem-locais-de-votacao-alterados-para-o-2o-turno.ghtml",
    "fonte": "g1",
    "categoria": "Geral",
-   "data": "2026-10-22T09:41:23.000Z"
+   "data": "2026-10-22T12:59:14.000Z"
   },
   {
-   "titulo": "Operação cumpre 21 mandados contra tráfico de drogas e organização criminosa em Teresina",
-   "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/22/operacao-trafico-teresina.ghtml",
+   "titulo": "PF mira armazenamento de material de abuso infantil e cumpre mandado em Lagarto",
+   "link": "https://g1.globo.com/se/sergipe/noticia/2026/10/22/pf-mira-armazenamento-de-material-de-abuso-infantil-e-cumpre-mandado-em-lagarto.ghtml",
    "fonte": "g1",
    "categoria": "Geral",
-   "data": "2026-10-22T09:34:04.000Z"
+   "data": "2026-10-22T12:58:36.000Z"
   },
   {
-   "titulo": "Após dias de tempo firme, região de Campinas volta a ter risco de temporais com raios nesta quinta",
-   "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/22/apos-dias-de-tempo-firme-regiao-de-campinas-volta-a-ter-risco-de-temporais-com-raios-nesta-quinta.ghtml",
+   "titulo": "Eleições 2026: Rio terá transporte público gratuito no 2º turno",
+   "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/22/eleicoes-transporte-publico-gratuito.ghtml",
    "fonte": "g1",
    "categoria": "Geral",
-   "data": "2026-10-22T09:33:38.000Z"
+   "data": "2026-10-22T12:57:39.000Z"
   },
   {
-   "titulo": "Assista ao Bom Dia ES",
-   "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/assista-bdes.ghtml",
+   "titulo": "Cidade na Itália vai transferir coelhos invasores de cemitério após reclamações de parentes de falecidos",
+   "link": "https://g1.globo.com/mundo/noticia/2026/10/22/cidade-na-italia-vai-transferir-coelhos-invasores-de-cemiterio-apos-reclamacoes-de-parentes-de-falecidos.ghtml",
    "fonte": "g1",
    "categoria": "Geral",
-   "data": "2026-10-22T09:32:11.000Z"
+   "data": "2026-10-22T12:56:49.000Z"
   },
   {
-   "titulo": "Aviso da Defesa Civil do Rio Grande do Sul prevê virada no tempo e tempestades com granizo e ventos de até 80 km/h",
-   "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/22/aviso-da-defesa-civil-do-rio-grande-do-sul-previsao-tempestades-granizo-vento.ghtml",
+   "titulo": "Homem morre após inalar fumaça durante incêndio na zona rural de Santo Antônio do Tauá",
+   "link": "https://g1.globo.com/pa/para/noticia/2026/10/22/homem-morre-apos-inalar-fumaca-durante-incendio-na-zona-rural-de-santo-antonio-do-taua.ghtml",
    "fonte": "g1",
    "categoria": "Geral",
-   "data": "2026-10-22T09:27:56.000Z"
+   "data": "2026-10-22T12:55:59.000Z"
   },
   {
-   "titulo": "Festival gratuito de teatro reúne artistas de diferentes estados do Nordeste em Teresina; veja programação",
-   "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/22/festival-gratuito-teresina-programacao.ghtml",
+   "titulo": "Idoso passa mal e cai de viaduto em Barra Mansa",
+   "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/22/idoso-passa-mal-e-cai-de-viaduto-em-barra-mansa.ghtml",
    "fonte": "g1",
    "categoria": "Geral",
-   "data": "2026-10-22T09:22:55.000Z"
+   "data": "2026-10-22T12:55:13.000Z"
+  },
+  {
+   "titulo": "Carrefour anuncia venda de 22 lojas ao Pátria Investimentos e passa a pagar aluguel para continuar operando; entenda",
+   "link": "https://g1.globo.com/economia/negocios/noticia/2026/10/22/carrefour-patria-investimentos.ghtml",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
+   "data": "2026-10-22T12:30:23.000Z"
+  },
+  {
+   "titulo": "Direitos Humanos: planos de Lula e Flávio refletem diferença histórica",
+   "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/direitos-humanos-programas-de-lula-e-flavio-refletem-diferencas-histo",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-10-22T12:20:00.000Z"
+  },
+  {
+   "titulo": "Dólar abre em alta, com avanço nos preços do petróleo e na reta final das eleições no Brasil",
+   "link": "https://g1.globo.com/economia/noticia/2026/10/22/dolar-ibovespa.ghtml",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
+   "data": "2026-10-22T12:00:25.000Z"
+  },
+  {
+   "titulo": "Inmet alerta para tempestades em toda a faixa leste do país",
+   "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/inmet-alerta-para-tempestades-em-toda-faixa-leste-do-pais",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-10-22T11:42:00.000Z"
+  },
+  {
+   "titulo": "Governo francês anuncia proibição de protestos considerados ilegítimos",
+   "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/presidente-anuncia-proibicao-de-protestos-ilegitimos",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-10-22T11:32:00.000Z"
+  },
+  {
+   "titulo": "Chuvas: Defesa Civil decreta situação de emergência em cidades do Sul",
+   "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/chuvas-defesa-civil-decreta-situacao-de-emergencia-em-cidades-do-sul",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-10-22T11:30:00.000Z"
+  },
+  {
+   "titulo": "Temporais avançam pelo Brasil e podem atingir várias regiões",
+   "link": "https://olhardigital.com.br/2026/10/22/ciencia-e-espaco/temporais-avancam-pelo-brasil-e-podem-atingir-varias-regioes/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-22T11:29:57.000Z"
+  },
+  {
+   "titulo": "O que é PHP e a falha grave de segurança detectada por IA que tirou sites do ar",
+   "link": "https://g1.globo.com/tecnologia/noticia/2026/10/22/o-que-e-php-e-a-falha-grave-de-seguranca-detectada-por-ia-que-tirou-sites-do-ar.ghtml",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
+   "data": "2026-10-22T11:14:54.000Z"
+  },
+  {
+   "titulo": "Meta descumpre ordens do TSE sobre IA e pode ser multada no Brasil",
+   "link": "https://olhardigital.com.br/2026/10/22/inteligencia-artificial/meta-descumpre-ordens-do-tse-sobre-ia-e-pode-ser-multada-no-brasil/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-22T11:06:53.000Z"
+  },
+  {
+   "titulo": "RN: eleitores vão escolher entre Allyson e Cadu de Lula para governo",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/rn-eleitores-vao-escolher-entre-allyson-e-cadu-de-lula-para-governo",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-10-22T11:00:00.000Z"
+  },
+  {
+   "titulo": "Eleitores do ES definem disputa para governo entre Ferraço e Pazolini",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-do-es-definem-disputa-para-governo-entre-ferraco-e-pazolini",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-10-22T11:00:00.000Z"
+  },
+  {
+   "titulo": "Jogos de hoje (22/10/26): onde assistir futebol ao vivo e horários das partidas",
+   "link": "https://olhardigital.com.br/2026/10/22/internet-e-redes-sociais/jogos-de-hoje-22-10-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-22T11:00:00.000Z"
+  },
+  {
+   "titulo": "Lua hoje: confira a fase da Lua desta quinta-feira 22/10/2026",
+   "link": "https://olhardigital.com.br/2026/10/22/ciencia-e-espaco/lua-hoje-confira-a-fase-da-lua-desta-quinta-feira-22-10-2026/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-22T10:55:00.000Z"
+  },
+  {
+   "titulo": "Mais um estúdio de renome fecha as portas",
+   "link": "https://tecnoblog.net/noticias/mais-um-estudio-de-renome-fecha-as-portas/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-10-22T10:48:11.000Z"
+  },
+  {
+   "titulo": "Claude ganha agente 24×7 para brigar com ChatGPT, Google e Meta",
+   "link": "https://tecnoblog.net/noticias/claude-ganha-agente-24x7-para-brigar-com-chatgpt-google-e-meta/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-10-22T10:38:29.000Z"
+  },
+  {
+   "titulo": "Meta leva multa de US$ 25 bilhões em processo do Cambridge Analytica",
+   "link": "https://tecnoblog.net/noticias/meta-leva-multa-de-us-25-bilhoes-em-processo-do-cambridge-analytica/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-10-22T10:17:00.000Z"
+  },
+  {
+   "titulo": "Estudo encontra pista no DNA que pode explicar por que cães grandes vivem menos",
+   "link": "https://olhardigital.com.br/2026/10/22/medicina-e-saude/estudo-encontra-pista-no-dna-que-pode-explicar-por-que-caes-grandes-vivem-menos/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-22T10:00:00.000Z"
   },
   {
    "titulo": "A próxima fase da IA não será definida por um único modelo",
@@ -51,20 +170,6 @@
    "data": "2026-10-22T09:00:00.000Z"
   },
   {
-   "titulo": "Flamengo x Estudiantes: onde assistir, horário e escalações do jogo da Libertadores",
-   "link": "https://olhardigital.com.br/2026/10/22/internet-e-redes-sociais/flamengo-x-estudiantes-onde-assistir-horario-e-escalacoes-do-jogo-da-libertadores/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-22T08:10:00.000Z"
-  },
-  {
-   "titulo": "Resumo do OD: tempestade de calor, IA “escapulindo” de novo, Meta é cobrada e mais",
-   "link": "https://olhardigital.com.br/2026/10/22/ciencia-e-espaco/resumo-do-od-tempestade-de-calor-ia-escapulindo-de-novo-meta-e-cobrada-e-mais/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-22T08:00:00.000Z"
-  },
-  {
    "titulo": "CLT, aposentado, estudante ou MEI? Veja as propostas de Lula e Flávio para o seu bolso",
    "link": "https://g1.globo.com/economia/noticia/2026/10/22/propostas-de-lula-e-flavio-para-o-seu-bolso.ghtml",
    "fonte": "g1 Economia",
@@ -72,14 +177,7 @@
    "data": "2026-10-22T08:00:00.000Z"
   },
   {
-   "titulo": "Eleições 2026: o que Lula e Flávio Bolsonaro propõem para clima e energia",
-   "link": "https://olhardigital.com.br/2026/10/22/pro/eleicoes-2026-o-que-lula-e-flavio-bolsonaro-propoem-para-clima-e-energia/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-22T07:00:00.000Z"
-  },
-  {
-   "titulo": "Abóbora de 1.500 kg bate recorde mundial e entra para o Guinness; fruto renderia 3 mil tortas",
+   "titulo": "Abóbora de quase 1.500 kg bate recorde mundial e entra para o Guinness; fruto renderia mais de 3 mil tortas",
    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/22/abobora-de-1500-kg-bate-recorde-mundial-e-entra-para-o-guinness-fruto-renderia-3-mil-tortas.ghtml",
    "fonte": "g1 Economia",
    "categoria": "Economia",
@@ -91,83 +189,6 @@
    "fonte": "g1 Economia",
    "categoria": "Economia",
    "data": "2026-10-22T07:00:00.000Z"
-  },
-  {
-   "titulo": "Doença de Newcastle: 6 mil aves são abatidas em granja no Oeste de SC",
-   "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/22/doenca-newcastle-6-mil-aves-abatidas-granja-oeste-sc.ghtml",
-   "fonte": "g1 Economia",
-   "categoria": "Economia",
-   "data": "2026-10-22T07:00:00.000Z"
-  },
-  {
-   "titulo": "Quem inventou o nome 'inteligência artificial' e por que Trump quer mudá-lo",
-   "link": "https://g1.globo.com/tecnologia/noticia/2026/10/22/quem-inventou-o-nome-inteligencia-artificial-e-por-que-trump-quer-muda-lo.ghtml",
-   "fonte": "g1 Economia",
-   "categoria": "Economia",
-   "data": "2026-10-22T06:00:00.000Z"
-  },
-  {
-   "titulo": "Qual o futuro dos concursos públicos? Veja o que propõem Lula e Flávio Bolsonaro",
-   "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/10/22/qual-o-futuro-dos-concursos-publicos-veja-o-que-propoem-lula-e-flavio-bolsonaro.ghtml",
-   "fonte": "g1 Economia",
-   "categoria": "Economia",
-   "data": "2026-10-22T06:00:00.000Z"
-  },
-  {
-   "titulo": "Confira o Olhar Digital News na íntegra (21/10/2026)",
-   "link": "https://olhardigital.com.br/2026/10/21/videos/confira-o-olhar-digital-news-na-integra-21-10-2026/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-22T01:52:43.000Z"
-  },
-  {
-   "titulo": "Flávio faz campanha em São Paulo; Lula teve ato em Belo Horizonte",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-faz-campanha-em-sao-paulo-lula-teve-ato-em-belo-horizonte",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-22T01:45:00.000Z"
-  },
-  {
-   "titulo": "Estudo encontra padrão curioso em relatos de supostas vidas passadas",
-   "link": "https://olhardigital.com.br/2026/10/21/ciencia-e-espaco/estudo-encontra-padrao-curioso-em-relatos-de-supostas-vidas-passadas/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-22T01:27:27.000Z"
-  },
-  {
-   "titulo": "Campanha de Lula entra com ação no TSE para cassar chapa de Flávio",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/campanha-de-lula-entra-com-acao-no-tse-para-cassar-chapa-de-flavio",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-22T01:20:00.000Z"
-  },
-  {
-   "titulo": "Nunes Marques suspende postagens ilegais contra campanha de Lula",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/nunes-marques-suspende-postagens-ilegais-contra-campanha-de-lula",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-22T00:39:00.000Z"
-  },
-  {
-   "titulo": "Brasil fica em 5º lugar na final por equipes do Mundial de Ginástica",
-   "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/brasil-fica-em-5o-lugar-na-final-por-equipes-do-mundial-de-ginastica",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-21T23:33:00.000Z"
-  },
-  {
-   "titulo": "Ministro prevê renegociação de R$ 90 bi em 3ª fase do Desenrola",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/ministro-preve-renegociacao-de-r-90-bi-em-3a-fase-do-desenrola",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-21T23:07:00.000Z"
-  },
-  {
-   "titulo": "Lula aceita proposta de Flávio para quebra de sigilo bancário",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-aceita-proposta-de-flavio-para-quebra-de-sigilo-bancario",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-21T22:45:00.000Z"
   },
   {
    "titulo": "Moto G Max com câmera de 200 MP sai 42% mais barato na Amazon",
@@ -189,27 +210,6 @@
    "fonte": "Tecnoblog",
    "categoria": "Tecnologia",
    "data": "2026-10-21T20:21:50.000Z"
-  },
-  {
-   "titulo": "Falha grave no PHP fez sites e serviços públicos saírem do ar",
-   "link": "https://tecnoblog.net/noticias/falha-grave-no-php-pode-tirar-sites-e-servicos-publicos-do-ar/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-10-21T19:00:08.000Z"
-  },
-  {
-   "titulo": "Galaxy Z Fold 8 em formato passaporte já tem R$ 1.900 OFF com cupom",
-   "link": "https://tecnoblog.net/achados/galaxy-z-fold-8-em-formato-passaporte-ja-tem-r-1-900-off-com-cupom/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-10-21T18:47:56.000Z"
-  },
-  {
-   "titulo": "Galaxy S26 (256 GB) enfim volta a aparecer em promoção",
-   "link": "https://tecnoblog.net/achados/galaxy-s26-256-gb-enfim-volta-a-aparecer-em-promocao/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-10-21T18:22:54.000Z"
   }
  ]
 }
