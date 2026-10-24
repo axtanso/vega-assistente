@@ -1,68 +1,117 @@
 {
- "atualizado": "2026-10-24T09:46:34.965Z",
+ "atualizado": "2026-10-24T12:55:40.246Z",
  "itens": [
   {
-   "titulo": "Praia da Graciosa: obras de revitalização e ampliação de faixa de areia completam quatro meses",
-   "link": "https://g1.globo.com/to/tocantins/noticia/2026/10/24/praia-da-graciosa-obras-de-revitalizacao-e-ampliacao-de-faixa-de-areia-completam-quatro-meses.ghtml",
+   "titulo": "Comerciante atira em homem que acusava de furtos e acaba preso em Campo Grande",
+   "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/24/comerciante-atira-em-homem-que-acusava-de-furtos-e-acaba-preso-em-campo-grande.ghtml",
    "fonte": "g1",
    "categoria": "Geral",
+   "data": "2026-10-24T12:31:00.000Z"
+  },
+  {
+   "titulo": "Feira de Santana terá calor de até 38°C e sensação térmica de 41°C nos próximos dias",
+   "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/24/previsao-do-tempo-bahia.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-10-24T12:27:03.000Z"
+  },
+  {
+   "titulo": "Apoiadores fazem ato em apoio a Flávio Bolsonaro em BH",
+   "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/24/apoiadores-fazem-ato-em-apoio-a-flavio-bolsonaro-em-bh.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-10-24T12:25:24.000Z"
+  },
+  {
+   "titulo": "Caso Paula Perin Portes: quatro réus são condenados pela morte da jovem de 18 anos no RS",
+   "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/24/reus-condenados-morte-jovem-soledade-rs.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-10-24T12:24:12.000Z"
+  },
+  {
+   "titulo": "Eleições 2026: Piauí amplia horário do transporte gratuito para eleitores; veja mudanças",
+   "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/10/24/eleicoes-2026-piaui-horario-transporte.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-10-24T12:23:58.000Z"
+  },
+  {
+   "titulo": "VÍDEO: carreta carregada de milho tomba e interdita acesso à rodovia em Salto de Pirapora",
+   "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/24/tomba-carreta-salto-de-pirapora.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-10-24T12:23:44.000Z"
+  },
+  {
+   "titulo": "Japão rumo a Marte, chuva de meteoros e Mercúrio retrógrado nos destaques da semana em Ciência e Espaço",
+   "link": "https://olhardigital.com.br/2026/10/24/ciencia-e-espaco/japao-rumo-a-marte-chuva-de-meteoros-e-mercurio-retrogrado-nos-destaques-da-semana-em-ciencia-e-espaco/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-24T12:00:00.000Z"
+  },
+  {
+   "titulo": "Mega-Sena sorteia prêmio acumulado em R$ 230 milhões neste sábado",
+   "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-sorteia-premio-acumulado-em-r-230-milhoes-neste-sabado",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-10-24T11:32:00.000Z"
+  },
+  {
+   "titulo": "Rádio Nacional transmite neste sábado Internacional x Botafogo",
+   "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/radio-nacional-transmite-neste-sabado-internacional-x-botafogo",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-10-24T11:15:00.000Z"
+  },
+  {
+   "titulo": "Saiba como votar usando o aplicativo e-Título do TSE",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/saiba-como-votar-usando-o-aplicativo-e-titulo-do-tse",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-10-24T11:12:00.000Z"
+  },
+  {
+   "titulo": "Justiça Eleitoral: 4 apps que ajudam você no dia da votação",
+   "link": "https://olhardigital.com.br/2026/10/24/internet-e-redes-sociais/justica-eleitoral-4-apps-que-ajudam-voce-no-dia-da-votacao/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-24T11:00:00.000Z"
+  },
+  {
+   "titulo": "Jogos de hoje (24/10/26): onde assistir futebol ao vivo e horários das partidas",
+   "link": "https://olhardigital.com.br/2026/10/24/internet-e-redes-sociais/jogos-de-hoje-24-10-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-24T11:00:00.000Z"
+  },
+  {
+   "titulo": "Lua hoje: confira a fase da Lua deste sábado 24/10/2026",
+   "link": "https://olhardigital.com.br/2026/10/24/ciencia-e-espaco/lua-hoje-confira-a-fase-da-lua-deste-sabado-24-10-2026/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-24T10:35:00.000Z"
+  },
+  {
+   "titulo": "Quem paga a conta? Economistas analisam promessas de Lula e Flávio diante de Orçamento apertado",
+   "link": "https://g1.globo.com/economia/noticia/2026/10/24/quem-paga-a-conta-economistas-analisam-promessas-de-lula-e-flavio-diante-de-orcamento-apertado.ghtml",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
+   "data": "2026-10-24T09:50:53.000Z"
+  },
+  {
+   "titulo": "Vasco x Corinthians: onde assistir, horário e escalações do jogo do Brasileirão",
+   "link": "https://olhardigital.com.br/2026/10/24/internet-e-redes-sociais/vasco-x-corinthians-onde-assistir-ao-jogo-do-brasileirao-2026/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
    "data": "2026-10-24T09:30:00.000Z"
   },
   {
-   "titulo": "Assista ao Bom Dia Sábado",
-   "link": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-10-24T09:27:23.000Z"
-  },
-  {
-   "titulo": "Mãe acusa negligência após dar à luz bebê natimorto em hospital do litoral de SP: 'Doendo demais'",
-   "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/24/mae-acusa-negligencia-apos-dar-a-luz-bebe-natimorto-em-hospital-do-litoral-de-sp-doendo-demais.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-10-24T09:16:48.000Z"
-  },
-  {
-   "titulo": "Mãe denuncia creche após menino de 2 anos aparecer com hematoma no rosto no litoral de SP",
-   "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/24/mae-denuncia-creche-apos-menino-de-2-anos-aparecer-com-hematoma-no-rosto-no-litoral-de-sp.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-10-24T09:16:43.000Z"
-  },
-  {
-   "titulo": "Entenda como efeito de 'cachoeira' se formou no céu da maior boca de caverna do mundo; VÍDEO",
-   "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/24/entenda-como-efeito-de-cachoeira-se-formou-no-ceu-da-maior-boca-de-caverna-do-mundo-video.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-10-24T09:16:28.000Z"
-  },
-  {
-   "titulo": "'Pancolé': Sobremesa feita com plantas amazônicas une gastronomia e ciência no Acre; conheça",
-   "link": "https://g1.globo.com/ac/acre/noticia/2026/10/24/pancole-sobremesa-feita-com-plantas-amazonicas-une-gastronomia-e-ciencia-no-acre-conheca.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-10-24T09:00:01.000Z"
-  },
-  {
-   "titulo": "Internacional x Botafogo: onde assistir, horário e escalações do jogo do Brasileirão",
-   "link": "https://olhardigital.com.br/2026/10/24/internet-e-redes-sociais/internacional-x-botafogo-onde-assistir-ao-jogo-do-brasileirao-2026/",
+   "titulo": "Resumo da semana: eleições, IA e os próximos passos da exploração espacial",
+   "link": "https://olhardigital.com.br/2026/10/24/pro/resumo-da-semana-eleicoes-ia-e-os-proximos-passos-da-exploracao-espacial/",
    "fonte": "Olhar Digital",
    "categoria": "Tecnologia",
-   "data": "2026-10-24T09:00:00.000Z"
-  },
-  {
-   "titulo": "Chelsea x Tottenham: onde assistir, horário e escalações do jogo da Premier League",
-   "link": "https://olhardigital.com.br/2026/10/24/internet-e-redes-sociais/chelsea-x-tottenham-onde-assistir-ao-jogo-da-premier-league-2026-2027/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-24T08:30:00.000Z"
-  },
-  {
-   "titulo": "Arsenal x Everton: onde assistir, horário e escalações do jogo da Premier League",
-   "link": "https://olhardigital.com.br/2026/10/24/internet-e-redes-sociais/arsenal-x-everton-onde-assistir-ao-jogo-da-premier-league-2026-2027/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-24T08:30:00.000Z"
+   "data": "2026-10-24T09:30:00.000Z"
   },
   {
    "titulo": "INSS: faltou ao 1º turno? Votar no segundo pode servir como prova de vida; veja como funciona",
@@ -93,13 +142,6 @@
    "data": "2026-10-24T03:00:00.000Z"
   },
   {
-   "titulo": "Meta diz ao TSE que canal “Exército do Lula” não viola regras do WhatsApp",
-   "link": "https://olhardigital.com.br/2026/10/23/internet-e-redes-sociais/meta-diz-ao-tse-que-canal-exercito-do-lula-nao-viola-regras-do-whatsapp/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-24T01:56:17.000Z"
-  },
-  {
    "titulo": "Moraes determina bloqueio de até R$ 6 bilhões do advogado Willer Tomaz",
    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/moraes-determina-bloqueio-de-ate-r-6-bilhoes-do-advogado-willer-tomaz",
    "fonte": "Agência Brasil",
@@ -112,41 +154,6 @@
    "fonte": "Agência Brasil",
    "categoria": "Geral",
    "data": "2026-10-24T00:42:00.000Z"
-  },
-  {
-   "titulo": "OpenAI corta internet de suas IAs mais avançadas após falhas de segurança",
-   "link": "https://olhardigital.com.br/2026/10/23/inteligencia-artificial/openai-corta-internet-de-suas-ias-mais-avancadas-apos-falhas-de-seguranca/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-24T00:31:42.000Z"
-  },
-  {
-   "titulo": "Ministra rejeita ação que pedia transporte interestadual na eleição",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/ministra-rejeita-acao-que-pedia-transporte-interestadual-na-eleicao",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-24T00:12:00.000Z"
-  },
-  {
-   "titulo": "Meta diz ao TSE que Exército do Lula não viola políticas da plataforma",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/meta-diz-ao-tse-que-exercito-do-lula-nao-viola-politicas-da-plataforma",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-23T23:48:00.000Z"
-  },
-  {
-   "titulo": "Chuva deve prevalecer no domingo de eleições no Rio",
-   "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/chuva-deve-prevalecer-no-domingo-de-eleicao-no-rio",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-23T23:44:00.000Z"
-  },
-  {
-   "titulo": "Resultado da Quina de hoje: veja números e ganhadores do concurso 7150 (sexta, 23/10)",
-   "link": "https://olhardigital.com.br/2026/10/23/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7150-sexta-23-10/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-23T23:40:00.000Z"
   },
   {
    "titulo": "BC passa a exigir autorização prévia para oferecer crédito a clientes com risco de endividamento",
@@ -203,13 +210,6 @@
    "fonte": "Tecnoblog",
    "categoria": "Tecnologia",
    "data": "2026-10-23T18:52:36.000Z"
-  },
-  {
-   "titulo": "Japão vai simular ataques hackers com IA após falha no PHP tirar sites do ar em vários países",
-   "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/23/japao-vai-simular-ataques-hackers-com-ia-apos-falha-no-php-tirar-sites-do-ar-em-varios-paises.ghtml",
-   "fonte": "g1 Economia",
-   "categoria": "Economia",
-   "data": "2026-10-23T18:45:42.000Z"
   }
  ]
 }
