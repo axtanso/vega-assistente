@@ -1,68 +1,110 @@
 {
- "atualizado": "2026-10-31T09:53:23.379Z",
+ "atualizado": "2026-10-31T13:04:04.965Z",
  "itens": [
   {
-   "titulo": "Assista ao Bom Dia Sábado",
-   "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+   "titulo": "Supermaratona para o Enem 2026: g1 MT transmite aulas ao vivo",
+   "link": "https://g1.globo.com/mt/mato-grosso/ao-vivo/supermaratona-para-o-enem-2026-g1-mt-transmite-aulas-ao-vivo.ghtml",
    "fonte": "g1",
    "categoria": "Geral",
-   "data": "2026-10-31T09:33:30.000Z"
+   "data": "2026-10-31T13:01:15.000Z"
   },
   {
-   "titulo": "Halloween: confira imagens astronômicas dignas de filme de terror",
-   "link": "https://olhardigital.com.br/2026/10/31/ciencia-e-espaco/halloween-confira-imagens-astronomicas-dignas-de-filme-de-terror/",
+   "titulo": "Jovem é morto a tiros após receber ameaças em Divinópolis",
+   "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/31/jovem-e-morto-a-tiros-apos-receber-ameacas-em-divinopolis.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-10-31T13:01:02.000Z"
+  },
+  {
+   "titulo": "Trabalhador portuário fica ferido após ser atingido por carro que capotou e motorista foge em Vila Velha",
+   "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/31/trabalhador-portuario-fica-ferido-apos-ser-atingido-por-carro-que-capotou-e-motorista-foge-em-vila-velha.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-10-31T12:59:47.000Z"
+  },
+  {
+   "titulo": "Motorista com CNH vencida bate em três carros estacionados e capota em Botucatu",
+   "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/31/motorista-com-cnh-vencida-bate-em-tres-carros-estacionados-e-capota-em-botucatu.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-10-31T12:58:46.000Z"
+  },
+  {
+   "titulo": "Hamburgueria do terror faz sucesso com lanches temáticos e aparições inesperadas em SP",
+   "link": "https://g1.globo.com/sp/santos-regiao/culinaria-013/noticia/2026/10/31/hamburgueria-do-terror-faz-sucesso-com-lanches-tematicos-e-aparicoes-inesperadas-em-sp.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-10-31T12:57:41.000Z"
+  },
+  {
+   "titulo": "Acidente envolvendo caminhões deixa um morto e dois feridos na BR-316, no PI",
+   "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/31/acidente-br-316.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-10-31T12:53:15.000Z"
+  },
+  {
+   "titulo": "Cena Musical, da TV Brasil exibe show exclusivo do sambista Caxtrinho",
+   "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/cena-musical-da-tv-brasil-exibe-show-exclusivo-do-sambista-caxtrinho",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-10-31T12:11:00.000Z"
+  },
+  {
+   "titulo": "Brasileiro premiado, recorde no efeito estufa e bolas de fogo de Halloween no resumo semanal de Ciência",
+   "link": "https://olhardigital.com.br/2026/10/31/ciencia-e-espaco/brasileiro-premiado-recorde-no-efeito-estufa-e-bolas-de-fogo-de-halloween-no-resumo-semanal-de-ciencia/",
    "fonte": "Olhar Digital",
    "categoria": "Tecnologia",
-   "data": "2026-10-31T09:15:00.000Z"
+   "data": "2026-10-31T12:00:00.000Z"
+  },
+  {
+   "titulo": "\"Luto é permanente\", diz viúva 30 anos após acidente com Fokker da TAM",
+   "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/luto-e-permanente-diz-viuva-30-anos-apos-acidente-com-fokker-da-tam",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-10-31T11:01:00.000Z"
+  },
+  {
+   "titulo": "Jogos de hoje (31/10/26): onde assistir futebol ao vivo e horários das partidas",
+   "link": "https://olhardigital.com.br/2026/10/31/internet-e-redes-sociais/jogos-de-hoje-31-10-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-31T11:00:00.000Z"
+  },
+  {
+   "titulo": "Entenda a relação entre o Halloween e a busca pela matéria escura",
+   "link": "https://olhardigital.com.br/2026/10/31/ciencia-e-espaco/entenda-a-relacao-entre-o-halloween-e-a-busca-pela-materia-escura/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-31T10:30:00.000Z"
+  },
+  {
+   "titulo": "Moto elétrica ganha câmbio de duas marchas para melhorar desempenho e eficiência",
+   "link": "https://olhardigital.com.br/2026/10/31/carros-e-tecnologia/moto-eletrica-ganha-cambio-de-duas-marchas-para-melhorar-desempenho-e-eficiencia/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-31T10:00:00.000Z"
+  },
+  {
+   "titulo": "Resumo da semana: Lula é reeleito, IA avança e big techs têm perdas bilionárias",
+   "link": "https://olhardigital.com.br/2026/10/31/pro/resumo-da-semana-lula-e-reeleito-ia-avanca-e-big-techs-tem-perdas-bilionarias/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-31T09:30:00.000Z"
+  },
+  {
+   "titulo": "Lua hoje: confira a fase da Lua deste sábado 31/10/2026",
+   "link": "https://olhardigital.com.br/2026/10/31/ciencia-e-espaco/lua-hoje-confira-a-fase-da-lua-deste-sabado-31-10-2026/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-10-31T09:24:00.000Z"
   },
   {
    "titulo": "Após avanço das bets, afastamentos por ludopatia batem recorde em 2026",
    "link": "https://g1.globo.com/saude/saude-mental/noticia/2026/10/31/apos-avanco-das-bets-afastamentos-por-ludopatia-batem-recorde-em-2026.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
    "data": "2026-10-31T09:11:42.000Z"
-  },
-  {
-   "titulo": "Metrô de SP encerra uso de bilhete magnético após mais de 50 anos",
-   "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/31/metro-de-sp-encerra-uso-de-bilhete-magnetico-apos-mais-de-50-anos.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-10-31T09:00:01.000Z"
-  },
-  {
-   "titulo": "Mandando Bem no Enem: professor orienta a leitura de textos literários",
-   "link": "https://g1.globo.com/mg/triangulo-mineiro/especial-publicitario/colegio-nacional/mandando-bem-no-enem/noticia/2026/10/31/mandando-bem-no-enem-professor-orienta-a-leitura-de-textos-literarios.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-10-31T09:00:01.000Z"
-  },
-  {
-   "titulo": "Halloween: aprenda a fazer dois drinks temáticos, com e sem álcool, para o Dia das Bruxas",
-   "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/31/halloween-aprenda-a-fazer-dois-drinks-tematicos-com-e-sem-alcool-para-o-dia-das-bruxas.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-10-31T09:00:00.000Z"
-  },
-  {
-   "titulo": "Você viu? Temporal com estragos em Leopoldina, doce de leite premiado e quase 2 mil vagas ociosas na UFJF",
-   "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/31/voce-viu-temporal-com-estragos-em-leopoldina-doce-de-leite-premiado-e-quase-2-mil-vagas-ociosas-na-ufjf.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-10-31T09:00:00.000Z"
-  },
-  {
-   "titulo": "Milan x Inter de Milão: onde assistir, horário e escalações do jogo do Campeonato Italiano",
-   "link": "https://olhardigital.com.br/2026/10/31/internet-e-redes-sociais/milan-x-inter-de-milao-onde-assistir-ao-jogo-do-campeonato-italiano-2026-2027/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-31T09:00:00.000Z"
-  },
-  {
-   "titulo": "Em 2026 teremos carros voadores? Entenda o que falta para eVTOLs decolarem de vez",
-   "link": "https://olhardigital.com.br/2026/10/31/carros-e-tecnologia/entenda-o-que-falta-para-carros-voadores-decolarem-de-vez/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-31T07:03:00.000Z"
   },
   {
    "titulo": "Free flow: 724 mil motoristas têm até dia 16 para pagar pedágio atrasado e evitar multa; veja como",
@@ -100,27 +142,6 @@
    "data": "2026-10-31T06:00:00.000Z"
   },
   {
-   "titulo": "Gastos com IA acendem alerta financeiro para Meta e Anthropic",
-   "link": "https://olhardigital.com.br/2026/10/30/pro/gastos-com-ia-acendem-alerta-financeiro-para-meta-e-anthropic/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-31T01:54:19.000Z"
-  },
-  {
-   "titulo": "Google testa IA em satélite e avança em projeto de data centers espaciais",
-   "link": "https://olhardigital.com.br/2026/10/30/pro/google-testa-ia-em-satelite-e-avanca-em-projeto-de-data-centers-espaciais/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-31T01:31:19.000Z"
-  },
-  {
-   "titulo": "Olhar Espacial: as naves espaciais que podem garantir nossa sobrevivência fora da Terra",
-   "link": "https://olhardigital.com.br/2026/10/30/colunistas/olhar-espacial-as-naves-espaciais-que-podem-garantir-nossa-sobrevivencia-fora-da-terra/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-31T00:52:51.000Z"
-  },
-  {
    "titulo": "Dólar fecha a R$ 5,44 e registra maior alta semanal desde 2008",
    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-r-544-e-registra-maior-alta-semanal-desde-2008",
    "fonte": "Agência Brasil",
@@ -156,13 +177,6 @@
    "data": "2026-10-30T20:50:00.000Z"
   },
   {
-   "titulo": "Justiça manda Meta excluir posts sobre demissão por voto político",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-manda-meta-excluir-posts-sobre-demissao-por-voto-politico",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-30T20:09:00.000Z"
-  },
-  {
    "titulo": "Samsung pode lançar tablet dobrável com tela de 17 polegadas",
    "link": "https://tecnoblog.net/noticias/samsung-pode-lancar-tablet-dobravel-com-tela-de-17-polegadas/",
    "fonte": "Tecnoblog",
@@ -189,13 +203,6 @@
    "fonte": "Tecnoblog",
    "categoria": "Tecnologia",
    "data": "2026-10-30T19:49:18.000Z"
-  },
-  {
-   "titulo": "Caseiro explorado e usado como laranja no DF receberá pensão mensal",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/caseiro-explorado-eusado-como-laranja-no-df-recebera-pensao-mensal",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-30T19:49:00.000Z"
   },
   {
    "titulo": "Itaú Pay: novo serviço do banco permite pagar em lojas online sem cartão",
