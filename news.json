@@ -1,40 +1,96 @@
 {
- "atualizado": "2026-11-01T09:57:06.805Z",
+ "atualizado": "2026-11-01T13:05:49.746Z",
  "itens": [
+  {
+   "titulo": "A crise de identidade que ameaça ambição dos democratas em eleição crucial para Trump",
+   "link": "https://g1.globo.com/mundo/noticia/2026/11/01/a-crise-de-identidade-que-ameaca-ambicao-dos-democratas-em-eleicao-crucial-para-trump.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-01T13:02:31.000Z"
+  },
+  {
+   "titulo": "Ataque a indígenas em MS: o que se sabe sobre ameaças de envenenamento da água em aldeia",
+   "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/01/ataque-a-indigenas-em-ms-o-que-se-sabe-sobre-ameacas-de-envenenamento-da-agua-em-aldeia.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-01T13:00:46.000Z"
+  },
+  {
+   "titulo": "'Fiquei em choque quando descobri': africana que deu à luz a quadrigêmeos em João Pessoa relata surpresa com gravidez e rotina após o parto",
+   "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/01/africana-que-deu-a-luz-a-quadrigemeos-em-joao-pessoa-relata-surpresa-com-gravidez-e-rotina-apos-o-parto.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-01T13:00:15.000Z"
+  },
+  {
+   "titulo": "Tocantins tem previsão de tempo nublado e chuva isolada durante o feriado de Finados",
+   "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/01/tocantins-tem-previsao-de-tempo-nublado-e-chuva-isolada-durante-o-feriado-de-finados.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-01T12:57:10.000Z"
+  },
+  {
+   "titulo": "Fuvest 2027: 6,8 mil inscritos fazem provas da 1ª fase neste domingo em Campinas; veja orientações",
+   "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/11/01/fuvest-2027-68-mil-inscritos-fazem-provas-da-1a-fase-neste-domingo-em-campinas-veja-orientacoes.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-01T12:56:23.000Z"
+  },
+  {
+   "titulo": "Homem invade casa e mata atual companheiro da ex-mulher a golpes de canivete em MT",
+   "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/01/homem-invade-casa-e-mata-atual-companheiro-da-ex-mulher-a-golpes-de-canivete-em-mt.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-01T12:55:56.000Z"
+  },
+  {
+   "titulo": "Binance retoma saques após roubo de R$ 33,8 bilhões em criptomoedas",
+   "link": "https://olhardigital.com.br/2026/11/01/pro/binance-retoma-saques-apos-roubo-de-r-33-8-bilhoes-em-criptomoedas/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-01T12:14:52.000Z"
+  },
+  {
+   "titulo": "Campanha alerta para doença em diabéticos que pode causar cegueira",
+   "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/campanha-alerta-para-doenca-em-diabeticos-que-pode-causar-cegueira",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-01T12:01:00.000Z"
+  },
+  {
+   "titulo": "Câncer de próstata matou 50 homens por dia no país em 2025",
+   "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/cancer-de-prostata-matou-50-homens-por-dia-no-pais-em-2025",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-01T11:12:00.000Z"
+  },
+  {
+   "titulo": "Jogos de hoje (01/11/26): onde assistir futebol ao vivo e horários das partidas",
+   "link": "https://olhardigital.com.br/2026/11/01/internet-e-redes-sociais/jogos-de-hoje-01-11-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-01T11:00:00.000Z"
+  },
+  {
+   "titulo": "Lua hoje: confira a fase da Lua deste domingo 1/11/2026",
+   "link": "https://olhardigital.com.br/2026/11/01/ciencia-e-espaco/lua-hoje-confira-a-fase-da-lua-deste-domingo-1-11-2026/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-01T10:35:00.000Z"
+  },
+  {
+   "titulo": "Hoje é Dia: datas, fatos e feriados de novembro de 2026",
+   "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/hoje-e-dia-datas-fatos-e-feriados-de-novembro-de-2026",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-01T10:30:00.000Z"
+  },
   {
    "titulo": "Binance retoma saques de bitcoin e ether após roubo de US$ 6,3 bilhões",
    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/01/binance-retoma-saques-apos-roubo-de-us-63-bilhoes.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
    "data": "2026-11-01T09:50:10.000Z"
-  },
-  {
-   "titulo": "Anelis Assumpção mergulha no reggae em álbum com Alice Carvalho, Liniker, Tetê Espíndola e Thalma de Freitas",
-   "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/01/anelis-assumpcao-mergulha-no-reggae-em-album-com-alice-carvalho-liniker-tete-espindola-e-thalma-de-freitas.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-01T09:28:06.000Z"
-  },
-  {
-   "titulo": "Caverna Desmoronada reabre após 15 anos no interior de SP; percurso pode durar até 8 horas",
-   "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/01/caverna-desmoronada-reabre-apos-15-anos-no-interior-de-sp-percurso-pode-durar-ate-8-horas.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-01T09:26:47.000Z"
-  },
-  {
-   "titulo": "Casa onde Lula viveu na infância segue de pé em Guarujá após mais de 70 anos; FOTOS",
-   "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/01/casa-onde-lula-viveu-na-infancia-segue-de-pe-em-guaruja-apos-mais-de-70-anos-fotos.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-01T09:26:21.000Z"
-  },
-  {
-   "titulo": "Órgãos de engenheiro agredido e morto após ato pró-Lula salvam quatro vidas, diz família",
-   "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/01/orgaos-de-engenheiro-agredido-e-morto-apos-ato-pro-lula-salvam-quatro-vidas-diz-familia.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-01T09:25:58.000Z"
   },
   {
    "titulo": "Fases da Lua em novembro de 2026: veja datas e horários",
@@ -42,13 +98,6 @@
    "fonte": "Olhar Digital",
    "categoria": "Tecnologia",
    "data": "2026-11-01T09:12:00.000Z"
-  },
-  {
-   "titulo": "Aprenda a preparar salada colorida com queijo coalho",
-   "link": "https://g1.globo.com/rn/rio-grande-do-norte/bom-que-so/noticia/2026/11/01/aprenda-a-preparar-salada-colorida-com-queijo-coalho.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-01T09:00:01.000Z"
   },
   {
    "titulo": "Grêmio x Atlético-MG: onde assistir, horário e escalações da semifinal da Copa do Brasil",
@@ -70,13 +119,6 @@
    "fonte": "g1 Economia",
    "categoria": "Economia",
    "data": "2026-11-01T08:00:01.000Z"
-  },
-  {
-   "titulo": "Liverpool x Arsenal: onde assistir, horário e escalações do jogo da Premier League",
-   "link": "https://olhardigital.com.br/2026/11/01/internet-e-redes-sociais/liverpool-x-arsenal-onde-assistir-ao-jogo-da-premier-league-2026-2027/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-01T08:00:00.000Z"
   },
   {
    "titulo": "Por que o Honda CR-V é um sucesso nos EUA, mas quase não vende no Brasil? O g1 testou o SUV 'invisível'",
@@ -107,20 +149,6 @@
    "data": "2026-11-01T03:00:00.000Z"
   },
   {
-   "titulo": "Casa mais limpa sem esforço: aspiradores robô em promoção na Amazon",
-   "link": "https://olhardigital.com.br/2026/10/31/reviews/casa-mais-limpa-sem-esforco-aspiradores-robo-em-promocao-na-amazon/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-31T22:54:25.000Z"
-  },
-  {
-   "titulo": "Hora de colocar um smartwatch no pulso: veja as melhores pedidas em oferta agora",
-   "link": "https://olhardigital.com.br/2026/10/31/reviews/hora-de-colocar-um-smartwatch-no-pulso-veja-as-melhores-pedidas-em-oferta-agora/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-10-31T22:34:25.000Z"
-  },
-  {
    "titulo": "Com viradas, Corinthians bate Palmeiras na semi do Paulista F Sub-20",
    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/com-viradas-corinthians-bate-palmeiras-na-semi-do-paulista-f-sub-20",
    "fonte": "Agência Brasil",
@@ -140,27 +168,6 @@
    "fonte": "Agência Brasil",
    "categoria": "Geral",
    "data": "2026-10-31T21:24:00.000Z"
-  },
-  {
-   "titulo": "Aldeias Guarani Kaiowá vão receber proteção da Força Nacional",
-   "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/aldeias-guarani-kaiowa-vao-receber-protecao-da-forca-nacional",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-31T20:38:00.000Z"
-  },
-  {
-   "titulo": "Brasil avança às quartas da AmeriCup no basquete masculino 3x3",
-   "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/brasil-avanca-quartas-da-americup-no-basquete-masculino-3x3",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-31T20:10:00.000Z"
-  },
-  {
-   "titulo": "Protestos da Geração Z chegam à Alemanha; milhares se manifestam",
-   "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/protestos-da-geracao-z-chegam-alemanha-milhares-se-manifestam",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-10-31T19:43:00.000Z"
   },
   {
    "titulo": "Como cancelar o Kindle+ (antigo Kindle Unlimited)",
