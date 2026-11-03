@@ -1,54 +1,194 @@
 {
- "atualizado": "2026-11-03T13:22:48.470Z",
+ "atualizado": "2026-11-03T16:06:52.750Z",
  "itens": [
+  {
+   "titulo": "Eleições nos EUA: urnas estão abertas em 48 estados; SIGA",
+   "link": "https://g1.globo.com/mundo/ao-vivo/eleicoes-nos-eua-2026-acompanhe-as-ultimas-noticias-sobre-as-midterms.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-03T16:03:51.000Z"
+  },
+  {
+   "titulo": "VÍDEOS: RJ1 de terça, 3 de novembro de 2026",
+   "link": "https://g1.globo.com/rj/rio-de-janeiro/videos-rj1/playlist/videos-rj1-de-terca-3-de-novembro-de-2026.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-03T16:03:18.000Z"
+  },
+  {
+   "titulo": "Assista aos telejornais da TV Subaé",
+   "link": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-03T16:02:18.000Z"
+  },
+  {
+   "titulo": "Assista aos telejornais da TV Liberal",
+   "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-03T16:02:14.000Z"
+  },
+  {
+   "titulo": "Assista aos telejornais da TV Bahia",
+   "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-03T16:01:47.000Z"
+  },
+  {
+   "titulo": "Assista ao Gazeta Meio Dia - edição regional",
+   "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-gazeta-meio-dia-edicao-regional.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-03T16:01:12.000Z"
+  },
+  {
+   "titulo": "Polícia e gigantes de tecnologia derrubam botnet com 1,3 milhão de TV boxes",
+   "link": "https://tecnoblog.net/noticias/policia-e-gigantes-de-tecnologia-derrubam-botnet-com-13-milhao-de-tv-boxes/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-11-03T15:45:12.000Z"
+  },
+  {
+   "titulo": "Justiça Eleitoral reabre cadastro e retoma serviços ao eleitor",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-eleitoral-reabre-cadastro-e-retoma-servicos-ao-eleitor",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-03T15:13:00.000Z"
+  },
+  {
+   "titulo": "Hora de renovar o seu setup: selecionamos ótimos notebooks em promoção na Amazon",
+   "link": "https://olhardigital.com.br/2026/11/03/reviews/hora-de-renovar-o-seu-setup-selecionamos-otimos-notebooks-em-promocao-na-amazon-6/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-03T15:01:05.000Z"
+  },
+  {
+   "titulo": "Por que só 4 em cada 10 jogadores terminam um jogo? A culpa é da dificuldade ou da duração?",
+   "link": "https://olhardigital.com.br/2026/11/03/games-e-consoles/por-que-tantos-jogadores-nao-terminam-os-jogos-entenda-os-motivos/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-03T14:55:14.000Z"
+  },
+  {
+   "titulo": "Argentina oferece isenção de regras e imposto menor para atuar com IA na Patagônia",
+   "link": "https://olhardigital.com.br/2026/11/03/pro/argentina-oferece-isencao-de-regras-e-imposto-menor-para-atuar-com-ia-na-patagonia/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-03T14:52:32.000Z"
+  },
+  {
+   "titulo": "Fux rebate críticas e diz ter percepção de que bets devem ser banidas",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fux-rebate-criticas-e-diz-ter-percepcao-de-que-bets-devem-ser-banidas",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-03T14:52:00.000Z"
+  },
+  {
+   "titulo": "Site e aplicativo do Banco do Brasil apresentam instabilidade",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/site-e-aplicativo-do-banco-do-brasil-apresentam-instabilidade",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-03T14:51:00.000Z"
+  },
+  {
+   "titulo": "Robô de entregas ignora sinal vermelho e é “atropelado” por ônibus",
+   "link": "https://tecnoblog.net/noticias/robo-de-entregas-ignora-sinal-vermelho-e-e-atropelado-por-onibus/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-11-03T14:42:14.000Z"
+  },
+  {
+   "titulo": "Governo quer enviar MP do Imposto Seletivo ainda hoje ao Congresso",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-quer-enviar-mp-do-imposto-seletivo-ainda-hoje-ao-congresso",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-03T14:42:00.000Z"
+  },
+  {
+   "titulo": "Quer jogar sem travar? Confira uma seleção de notebooks gamer em promoção na Amazon",
+   "link": "https://olhardigital.com.br/2026/11/03/reviews/quer-jogar-sem-travar-confira-uma-selecao-de-notebooks-gamer-em-promocao-na-amazon-17/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-03T14:41:05.000Z"
+  },
+  {
+   "titulo": "Anthropic muda regras do Claude Code para impedir cópias de jogos existentes",
+   "link": "https://olhardigital.com.br/2026/11/03/games-e-consoles/anthropic-muda-claude-code-para-impedir-copias-de-jogos-com-ia/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-03T14:37:26.000Z"
+  },
+  {
+   "titulo": "Ford do Brasil faz recall de F-150 por falha na fixação dos bancos",
+   "link": "https://g1.globo.com/carros/noticia/2026/11/03/recall-ford-f-150-bancos.ghtml",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
+   "data": "2026-11-03T14:36:07.000Z"
+  },
+  {
+   "titulo": "Nintendo explica por que decidiu refazer Zelda: Ocarina of Time para Switch 2",
+   "link": "https://olhardigital.com.br/2026/11/03/games-e-consoles/nintendo-explica-por-que-refez-zelda-ocarina-of-time-para-switch-2/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-03T14:22:01.000Z"
+  },
+  {
+   "titulo": "Galaxy Watch 8 LTE sai com 55% OFF em até 10x sem juros no Mercado Livre",
+   "link": "https://tecnoblog.net/achados/galaxy-watch-8-lte-sai-com-55-off-em-ate-10x-sem-juros-no-mercado-livre/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-11-03T14:19:52.000Z"
+  },
+  {
+   "titulo": "Motorola Edge 70 Fusion Plus (512 GB) tem R$ 1.600 OFF no mês da Black Friday",
+   "link": "https://tecnoblog.net/achados/motorola-edge-70-fusion-plus-512-gb-tem-r-1-600-off-no-mes-da-black-friday/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-11-03T13:49:39.000Z"
+  },
+  {
+   "titulo": "Mercado eleva projeção para inflação, juros e dólar em 2026",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-eleva-projecao-para-inflacao-juros-e-dolar-em-2026",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-03T13:43:00.000Z"
+  },
+  {
+   "titulo": "Toyota, GM, VW e mais fábricas pedem banimento permanente de carros chineses nos Estados Unidos",
+   "link": "https://g1.globo.com/carros/noticia/2026/11/03/montadoras-pedem-banimento-permanente-de-carros-chineses-nos-estados-unidos.ghtml",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
+   "data": "2026-11-03T13:41:53.000Z"
+  },
+  {
+   "titulo": "Terremoto de magnitude 5,6 atinge a Colômbia",
+   "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/terremoto-de-magnitude-56-atinge-colombia",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-03T13:31:00.000Z"
+  },
+  {
+   "titulo": "Black Friday 2026: brasileiros estão mais exigentes e buscam descontos maiores, diz pesquisa da Globo",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/03/black-friday-2026-brasileiros-estao-mais-exigentes-e-buscam-descontos-maiores-diz-pesquisa-da-globo.ghtml",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
+   "data": "2026-11-03T13:30:01.000Z"
+  },
+  {
+   "titulo": "Galaxy S25 Plus (512 GB) com tela grande entra em oferta na Amazon",
+   "link": "https://tecnoblog.net/achados/galaxy-s25-plus-512-gb-com-tela-grande-entra-em-oferta-na-amazon/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-11-03T13:29:22.000Z"
+  },
   {
    "titulo": "Disney planeja milhares de demissões e cobra redução de 20% nos custos",
    "link": "https://g1.globo.com/economia/negocios/noticia/2026/11/03/disney-planeja-milhares-de-demissoes-e-cobra-reducao-de-20percent-nos-custos.ghtml",
    "fonte": "g1 Economia",
    "categoria": "Economia",
    "data": "2026-11-03T13:15:49.000Z"
-  },
-  {
-   "titulo": "Empresa de transporte coletivo de Prudente firma acordo com MPT após assédio moral contra funcionários",
-   "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/03/empresa-de-transporte-coletivo-de-prudente-firma-acordo-com-mpt-apos-assedio-moral-contra-funcionarios.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-03T13:15:04.000Z"
-  },
-  {
-   "titulo": "Campanha de vacinação contra a raiva começa em Alagoas e segue até 7 de dezembro",
-   "link": "https://g1.globo.com/al/alagoas/noticia/2026/11/03/campanha-de-vacinacao-contra-a-raiva-comeca-em-alagoas-e-segue-ate-7-de-dezembro.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-03T13:14:20.000Z"
-  },
-  {
-   "titulo": "Estudante de agronomia é encontrado morto em moradia universitária da Ufersa em Mossoró",
-   "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/03/estudante-de-agronomia-e-encontrado-morto-em-moradia-universitaria-da-ufersa-em-mossoro.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-03T13:12:30.000Z"
-  },
-  {
-   "titulo": "Aveiro decreta emergência por incêndios que destroem lavouras e afetam terras indígenas no Pará",
-   "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/03/aveiro-decreta-emergencia-por-incendios-que-destroem-lavouras-e-afetam-terras-indigenas-no-para.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-03T13:11:38.000Z"
-  },
-  {
-   "titulo": "Melania Trump vai receber representantes da Rússia e Ucrânia juntos, diz Casa Branca",
-   "link": "https://g1.globo.com/mundo/noticia/2026/11/03/melania-trump-russia-ucrania-casa-branca.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-03T13:11:17.000Z"
-  },
-  {
-   "titulo": "'Mais tatuado do Brasil' pede namorada em casamento antes de 2ª sessão de quimioterapia contra câncer na bexiga",
-   "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/03/mais-tatuado-do-brasil-quimioterapia-2-sessao.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-03T13:07:53.000Z"
   },
   {
    "titulo": "Aliados querem que Lula use pronunciamento para afastar rumores sobre nova política econômica e defender equilíbrio",
@@ -58,7 +198,7 @@
    "data": "2026-11-03T13:07:50.000Z"
   },
   {
-   "titulo": "Diante de forte deterioração das expectativas do mercado, Durigan promete melhorar contas públicas sem recorrer a 'narrativa fácil'",
+   "titulo": "Diante da piora nas expectativas do mercado, Durigan fala em melhorar contas públicas sem recorrer a 'narrativa fácil'",
    "link": "https://g1.globo.com/economia/noticia/2026/11/03/diante-de-forte-deterioracao-das-expectativas-do-mercado-durigan-promete-melhorar-contas-publicas-sem-recorrer-a-narrativa-facil.ghtml",
    "fonte": "g1 Economia",
    "categoria": "Economia",
@@ -70,146 +210,6 @@
    "fonte": "Tecnoblog",
    "categoria": "Tecnologia",
    "data": "2026-11-03T13:00:22.000Z"
-  },
-  {
-   "titulo": "Honda City 2027 muda pouco e não baixa preços para enfrentar os chineses; veja o teste",
-   "link": "https://g1.globo.com/carros/noticia/2026/11/03/honda-city-2027-muda-pouco-e-nao-baixa-precos-para-enfrentar-os-chineses-veja-o-teste.ghtml",
-   "fonte": "g1 Economia",
-   "categoria": "Economia",
-   "data": "2026-11-03T13:00:00.000Z"
-  },
-  {
-   "titulo": "Mega da Virada 2026 abre apostas com prêmio estimado em R$ 1 bilhão",
-   "link": "https://g1.globo.com/loterias/noticia/2026/11/03/mega-da-virada-2026-abre-apostas-com-premio-estimado-em-r-1-bilhao.ghtml",
-   "fonte": "g1 Economia",
-   "categoria": "Economia",
-   "data": "2026-11-03T12:55:59.000Z"
-  },
-  {
-   "titulo": "Fusão entre SpaceX e Tesla pode ampliar controle de Elon Musk",
-   "link": "https://olhardigital.com.br/2026/11/03/pro/fusao-entre-spacex-e-tesla-pode-ampliar-controle-de-elon-musk/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-03T12:49:44.000Z"
-  },
-  {
-   "titulo": "Fire TV Stick ou Roku? Veja uma seleção de dispositivos de streaming em promoção na Amazon",
-   "link": "https://olhardigital.com.br/2026/11/03/reviews/fire-tv-stick-ou-roku-veja-uma-selecao-de-dispositivos-de-streaming-em-promocao-na-amazon-4/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-03T12:41:05.000Z"
-  },
-  {
-   "titulo": "Força Nacional apoiará Funai na Terra Indígena Ituna-Itatá, no Pará",
-   "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/forca-nacional-apoiara-funai-na-terra-indigena-ituna-itata-no-para",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-03T12:26:00.000Z"
-  },
-  {
-   "titulo": "Anthropic diz que IA pode acelerar o próprio desenvolvimento",
-   "link": "https://olhardigital.com.br/2026/11/03/inteligencia-artificial/anthropic-diz-que-ia-pode-acelerar-o-proprio-desenvolvimento/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-03T12:21:12.000Z"
-  },
-  {
-   "titulo": "Tela grande com qualidade de imagem de verdade: TVs QLED em promoção na Amazon",
-   "link": "https://olhardigital.com.br/2026/11/03/reviews/tela-grande-com-qualidade-de-imagem-de-verdade-tvs-qled-em-promocao-na-amazon-2/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-03T12:21:05.000Z"
-  },
-  {
-   "titulo": "Durigan quer revisar benefícios fiscais em 2027 para reduzir alíquota do imposto sobre consumo do governo federal",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/03/durigan-quer-revisar-beneficios-fiscais-em-2027-para-reduzir-aliquota-do-imposto-sobre-o-consumo-do-governo-federal.ghtml",
-   "fonte": "g1 Economia",
-   "categoria": "Economia",
-   "data": "2026-11-03T12:19:00.000Z"
-  },
-  {
-   "titulo": "Cupons da Black November na Amazon: como usar e economizar até 25%",
-   "link": "https://tecnoblog.net/achados/cupons-black-friday-2026-amazon/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-11-03T12:06:34.000Z"
-  },
-  {
-   "titulo": "Hora de renovar a sala: Smart TVs 4K em oferta na Amazon",
-   "link": "https://olhardigital.com.br/2026/11/03/reviews/hora-de-renovar-a-sala-smart-tvs-4k-em-oferta-na-amazon-7/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-03T12:01:36.000Z"
-  },
-  {
-   "titulo": "Queda de Learjet nos EUA: gelo e turbulência podem ser as causas",
-   "link": "https://olhardigital.com.br/2026/11/03/carros-e-tecnologia/queda-de-learjet-nos-eua-gelo-e-turbulencia-podem-ser-as-causas/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-03T11:45:33.000Z"
-  },
-  {
-   "titulo": "Semana de Educação Midiática terá atividades em todas as regiões",
-   "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/semana-de-educacao-midiatica-tera-atividades-em-todas-regioes",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-03T10:58:00.000Z"
-  },
-  {
-   "titulo": "Fies 2: inscrições para vagas remanescentes terminam nesta terça",
-   "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/fies-2-inscricoes-para-vagas-remanescentes-terminam-nesta-terca",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-03T10:02:00.000Z"
-  },
-  {
-   "titulo": "Massa Bruta faz 2 a 1 no Santos e iguala os 47 pontos",
-   "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/com-gols-no-primeiro-tempo-massa-bruta-faz-2-1-e-iguala-os-47-ponto",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-03T01:21:00.000Z"
-  },
-  {
-   "titulo": "Melhor TV com Roku OS: 6 modelos para comprar em 2026",
-   "link": "https://tecnoblog.net/guias/melhor-tv-roku/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-11-02T23:50:21.000Z"
-  },
-  {
-   "titulo": "Vitória anuncia demissão do técnico Jair Ventura",
-   "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/vitoria-anuncia-demissao-do-tecnico-jair-ventura",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-02T22:23:00.000Z"
-  },
-  {
-   "titulo": "A menos de uma semana para o Enem 2026, MEC dá dicas aos participantes",
-   "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/menos-de-uma-semana-para-o-enem-2026-mec-da-dicas-aos-participantes",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-02T21:29:00.000Z"
-  },
-  {
-   "titulo": "Melhor TV custo-benefício em 2026: 10 modelos para comprar",
-   "link": "https://tecnoblog.net/guias/melhor-tv-custo-beneficio/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-11-02T20:41:57.000Z"
-  },
-  {
-   "titulo": "Google vai anunciar Googlebooks que funcionam como tablets",
-   "link": "https://tecnoblog.net/noticias/google-vai-anunciar-googlebooks-que-funcionam-como-tablets/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-11-02T19:58:36.000Z"
-  },
-  {
-   "titulo": "IA faz demanda por fitas magnéticas voltar a crescer",
-   "link": "https://tecnoblog.net/noticias/boom-da-ia-faz-disparar-demanda-por-fitas-magneticas/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-11-02T19:40:16.000Z"
   }
  ]
 }
