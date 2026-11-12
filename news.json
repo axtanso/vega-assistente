@@ -1,26 +1,166 @@
 {
- "atualizado": "2026-11-11T22:16:59.244Z",
+ "atualizado": "2026-11-12T01:29:40.372Z",
  "itens": [
   {
-   "titulo": "Crise na Nvidia: novo caso extraconjugal de CEO vem à tona, diz jornal",
+   "titulo": "USF abre vagas para inserção gratuita de DIU em Campo Grande; veja como agendar",
+   "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/11/usf-abre-vagas-para-insercao-gratuita-de-diu-em-campo-grande-veja-como-agendar.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-12T01:19:56.000Z"
+  },
+  {
+   "titulo": "Mais de 6 mil escolas na Itália recebem ameaça de bomba: 'Se acontecesse alguma coisa, não poderia me perdoar', diz diretora",
+   "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/mais-de-6-mil-escolas-na-italia-recebem-ameaca-de-bomba-se-acontecesse-alguma-coisa-nao-poderia-me-perdoar-diz-diretora.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-12T01:18:55.000Z"
+  },
+  {
+   "titulo": "Carolina Dieckmann canta Preta Gil em festa pré-casamento em Fernando de Noronha; VÍDEO",
+   "link": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/11/11/carolina-dieckmann-canta-preta-gil-em-festa-pre-casamento-em-fernando-de-noronha-video.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-12T01:17:47.000Z"
+  },
+  {
+   "titulo": "Americanas tem prejuízo de R$ 352 milhões no 3º trimestre",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/11/prejuizo-americanas.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-12T01:15:50.000Z"
+  },
+  {
+   "titulo": "Espanha tem dia de greve geral pela primeira vez em 14 anos",
+   "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/espanha-tem-dia-de-greve-geral-pela-primeira-vez-em-14-anos.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-12T01:10:59.000Z"
+  },
+  {
+   "titulo": "Após avanço em investigação, polícia diz que atropelamento que matou mãe e filha foi motivado por discussão em balneário",
+   "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/11/apos-avanco-em-investigacao-policia-diz-que-atropelamento-que-matou-mae-e-filha-foi-motivado-por-discussao-em-balneario.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-12T01:06:23.000Z"
+  },
+  {
+   "titulo": "Mais de 84 milhões de brasileiros não usaram o Gov.br em 2025, aponta TCU",
+   "link": "https://olhardigital.com.br/2026/11/11/internet-e-redes-sociais/mais-de-84-milhoes-de-brasileiros-nao-usaram-o-gov-br-em-2025-aponta-tcu/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-12T00:51:54.000Z"
+  },
+  {
+   "titulo": "BNDES recebe selo Diamante de transparência pública pela quarta vez",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/bndes-recebe-selo-diamante-de-transparencia-publica-pela-quarta-vez",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-12T00:06:00.000Z"
+  },
+  {
+   "titulo": "Precariedade do sistema prisional entra no debate da maioridade penal",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/precariedade-do-sistema-prisional-entra-no-debate-da-maioridade-penal",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-11T23:46:00.000Z"
+  },
+  {
+   "titulo": "Letramento digital precisa vir antes de uso da IA, diz Unesco",
+   "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/letramento-digital-precisa-vir-antes-de-uso-da-ia-diz-unesco",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-11T23:46:00.000Z"
+  },
+  {
+   "titulo": "Resultado da Quina de hoje: veja números e ganhadores do concurso 7165 (quarta, 11/11)",
+   "link": "https://olhardigital.com.br/2026/11/11/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7165-quarta-11-11/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-11T23:40:00.000Z"
+  },
+  {
+   "titulo": "Resultado da Lotofácil de hoje: veja números e ganhadores do concurso 3827 (quarta, 11/11)",
+   "link": "https://olhardigital.com.br/2026/11/11/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3827-quarta-11-11/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-11T23:40:00.000Z"
+  },
+  {
+   "titulo": "Nvidia: além de suposta espiã chinesa, Jensen Huang teria tido caso com executiva da empresa",
+   "link": "https://olhardigital.com.br/2026/11/11/pro/nvidia-alem-de-suposta-espia-chinesa-jensen-huang-teria-tido-caso-com-executiva-da-empresa/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-11T23:36:08.000Z"
+  },
+  {
+   "titulo": "Starship vai tentar voltar para os braços da SpaceX em pouso inédito – Olhar Digital transmite lançamento ao vivo",
+   "link": "https://olhardigital.com.br/2026/11/11/ciencia-e-espaco/starship-vai-tentar-voltar-para-os-bracos-da-spacex-em-pouso-inedito-olhar-digital-transmite-lancamento-ao-vivo/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-11T23:25:00.000Z"
+  },
+  {
+   "titulo": "Projetos de lei que envolvem saúde feminina avançam na Câmara",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/projetos-de-lei-que-envolvem-saude-feminina-avancam-na-camara",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-11T23:21:00.000Z"
+  },
+  {
+   "titulo": "Petrobras amplia capacidade de 11 plataformas sem novos investimentos",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-amplia-capacidade-de-11-plataformas-sem-novos-investimentos",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-11T23:19:00.000Z"
+  },
+  {
+   "titulo": "Melhor TV QLED em 2026: 8 modelos para comprar",
+   "link": "https://tecnoblog.net/guias/melhor-tv-qled/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-11-11T23:05:59.000Z"
+  },
+  {
+   "titulo": "Lucro do Banco do Brasil cai 66,5% no 3º trimestre, para R$ 1,27 bilhão",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/11/banco-do-brasil-bb-resultados-3t26.ghtml",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
+   "data": "2026-11-11T23:03:11.000Z"
+  },
+  {
+   "titulo": "PGR envia ao Supremo parecer favorável a manter prisão de Vorcaro",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pgr-envia-ao-supremo-parecer-favoravel-manter-prisao-de-vorcaro",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-11T23:00:00.000Z"
+  },
+  {
+   "titulo": "Nvidia prepara saída de Jensen Huang após escândalo, diz jornal",
+   "link": "https://olhardigital.com.br/2026/11/11/pro/nvidia-prepara-saida-de-jensen-huang-apos-escandalo-diz-jornal/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-11T22:58:38.000Z"
+  },
+  {
+   "titulo": "Baic Arcfox T5 chega ao Brasil por R$ 219.990; SUV elétrico recarrega em 18 minutos",
+   "link": "https://g1.globo.com/carros/noticia/2026/11/11/baic-arcfox-t5.ghtml",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
+   "data": "2026-11-11T22:25:02.000Z"
+  },
+  {
+   "titulo": "CEO da Nvidia teve outro caso extraconjugal, com executiva da empresa, diz jornal",
    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/11/nvidia-novo-caso-ceo.ghtml",
    "fonte": "g1 Economia",
    "categoria": "Economia",
    "data": "2026-11-11T22:09:58.000Z"
   },
   {
-   "titulo": "PGR defende manter prisão de Daniel Vorcaro",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/11/pgr-defende-manter-prisao-de-daniel-vorcaro.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-11T22:04:30.000Z"
-  },
-  {
-   "titulo": "Papa Leão XIV chega ao Peru, sua 'segunda pátria'",
-   "link": "https://g1.globo.com/mundo/noticia/2026/11/11/papa-leao-xiv-chega-ao-peru-sua-segunda-patria.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-11T22:04:22.000Z"
+   "titulo": "Voluntários brasileiros colocam o português em destaque no Linux 7.3",
+   "link": "https://tecnoblog.net/especiais/voluntarios-brasileiros-colocam-o-portugues-em-destaque-no-linux-7-3/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-11-11T22:08:20.000Z"
   },
   {
    "titulo": "Últimas horas 11.11: Lenovo Idea Tab com 33% OFF em até 12x sem juros",
@@ -30,32 +170,11 @@
    "data": "2026-11-11T22:04:17.000Z"
   },
   {
-   "titulo": "Ministério Público arquiva inquérito que investigava uso de Cidade das Crianças como estacionamento em show do Guns N’ Roses em Rio Preto",
-   "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/11/ministerio-publico-arquiva-inquerito-que-investigava-uso-de-cidade-das-criancas-como-estacionamento-em-show-do-guns-n-roses-em-rio-preto.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-11T22:03:45.000Z"
-  },
-  {
    "titulo": "Limite de supersalários, mudanças no piso da saúde; veja as medidas do governo para ajuste fiscal de até R$ 60 bilhões",
    "link": "https://g1.globo.com/economia/noticia/2026/11/11/limite-de-supersalarios-mudancas-no-piso-da-saude-veja-as-medidas-do-governo-para-ajuste-fiscal-de-ate-r-60-bilhoes.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
    "data": "2026-11-11T22:03:09.000Z"
-  },
-  {
-   "titulo": "AO VIVO: Assista ao JAC2 com Quésia Melo",
-   "link": "https://g1.globo.com/ac/acre/ao-vivo/ao-vivo-assista-ao-jac2-com-quesia-melo.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-11T22:02:05.000Z"
-  },
-  {
-   "titulo": "Assista ao Boa Noite Espírito Santo",
-   "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-boa-noite-espirito-santo.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-11T22:01:25.000Z"
   },
   {
    "titulo": "Kindle Colorsoft com até 4 mil cores cai de preço no 11.11 em 10x sem juros",
@@ -79,130 +198,11 @@
    "data": "2026-11-11T21:34:08.000Z"
   },
   {
-   "titulo": "BB e banco alemão farão aporte de 100 milhões de euros em bioeconomia",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/bb-e-banco-alemao-farao-aporte-de-100-milhoes-de-euros-em-bioeconomia",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-11T21:21:00.000Z"
-  },
-  {
    "titulo": "11.11: Motorola Edge 70 Fusion Plus (512 GB) com Snapdragon tem maior desconto registrado",
    "link": "https://tecnoblog.net/achados/11-11-motorola-edge-70-fusion-plus-512-gb-com-snapdragon-tem-maior-desconto-registrado/",
    "fonte": "Tecnoblog",
    "categoria": "Tecnologia",
    "data": "2026-11-11T21:20:53.000Z"
-  },
-  {
-   "titulo": "Casa mais limpa sem esforço: selecionamos os melhores aspiradores robô em promoção",
-   "link": "https://olhardigital.com.br/2026/11/11/reviews/casa-mais-limpa-sem-esforco-selecionamos-os-melhores-aspiradores-robo-em-promocao-5/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-11T21:11:47.000Z"
-  },
-  {
-   "titulo": "Congresso dos EUA pode intimar CEO da Nvidia por caso envolvendo suposta espiã chinesa",
-   "link": "https://olhardigital.com.br/2026/11/11/pro/congresso-dos-eua-pode-intimar-ceo-da-nvidia-por-caso-envolvendo-suposta-espia-chinesa/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-11T21:07:00.000Z"
-  },
-  {
-   "titulo": "Smartwatches em promoção na Amazon: veja uma seleção para monitorar sua saúde com estilo",
-   "link": "https://olhardigital.com.br/2026/11/11/reviews/smartwatches-em-promocao-na-amazon-veja-uma-selecao-para-monitorar-sua-saude-com-estilo/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-11T20:51:47.000Z"
-  },
-  {
-   "titulo": "Governo anuncia medidas de ajuste para economia de até R$ 60 bilhões",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-anuncia-medidas-de-ajuste-para-economia-de-ate-r-60-bilhoes",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-11T20:48:00.000Z"
-  },
-  {
-   "titulo": "The Economist pede saída de CEO da Nvidia após caso extraconjugal com suposta espiã chinesa",
-   "link": "https://g1.globo.com/tecnologia/noticia/2026/11/11/the-economist-caso-huang-nvidia.ghtml",
-   "fonte": "g1 Economia",
-   "categoria": "Economia",
-   "data": "2026-11-11T20:45:02.000Z"
-  },
-  {
-   "titulo": "Investidor de 31 anos investigou Nvidia meses antes de escândalo envolvendo CEO",
-   "link": "https://olhardigital.com.br/2026/11/11/pro/investidor-de-31-anos-investigou-nvidia-meses-antes-de-escandalo-envolvendo-ceo/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-11T20:40:44.000Z"
-  },
-  {
-   "titulo": "Violência política: estudo registra 18 mortes e 379 casos em 27 dias",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/violencia-politica-estudo-registra-18-mortes-e-379-casos-em-27-dias",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-11T20:37:00.000Z"
-  },
-  {
-   "titulo": "Galaxy S26 volta a cair e atinge quase metade do preço no 11.11 do Magalu",
-   "link": "https://tecnoblog.net/achados/galaxy-s26-volta-a-cair-e-atinge-quase-metade-do-preco-no-11-11-do-magalu/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-11-11T20:34:58.000Z"
-  },
-  {
-   "titulo": "Hora de jogar: uma seleção de jogos Xbox que estão em promoção na Amazon",
-   "link": "https://olhardigital.com.br/2026/11/11/reviews/hora-de-jogar-uma-selecao-de-jogos-xbox-que-estao-em-promocao-na-amazon/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-11T20:31:47.000Z"
-  },
-  {
-   "titulo": "Galaxy Watch 9 tem promoção histórica com 50% OFF no 11.11 do Mercado Livre",
-   "link": "https://tecnoblog.net/achados/galaxy-watch-9-tem-promocao-historica-com-50-off-no-11-11-do-mercado-livre/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-11-11T20:17:50.000Z"
-  },
-  {
-   "titulo": "Galípolo cita incertezas e diz que BC decidirá sobre juros 'reunião a reunião'",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/11/galipolo-decisoes-sobre-juros.ghtml",
-   "fonte": "g1 Economia",
-   "categoria": "Economia",
-   "data": "2026-11-11T20:12:49.000Z"
-  },
-  {
-   "titulo": "GTA VI, Resident Evil Requiem e mais: confira uma seleção de jogos PS5 em promoção na Amazon",
-   "link": "https://olhardigital.com.br/2026/11/11/reviews/gta-vi-resident-evil-requiem-e-mais-confira-uma-selecao-de-jogos-ps5-em-promocao-na-amazon/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-11T20:11:47.000Z"
-  },
-  {
-   "titulo": "Polícia Civil indicia influenciador e marido por vídeo na casa de FHC",
-   "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/policia-civil-indicia-influenciador-e-marido-por-video-na-casa-de-fhc",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-11T20:08:00.000Z"
-  },
-  {
-   "titulo": "Parada LGBTI do Rio cobrará leis que consolidem direitos conquistados",
-   "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/parada-lgbti-do-rio-cobrara-leis-que-consolidem-direitos-conquistados",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-11T20:07:00.000Z"
-  },
-  {
-   "titulo": "Cartilha lançada na COP31 orientará indígenas sobre fundo florestal",
-   "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/cartilha-lancada-na-cop31-orientara-indigenas-sobre-fundo-florestal",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-11T20:00:00.000Z"
-  },
-  {
-   "titulo": "CBS e IBS: entenda os novos impostos da reforma tributária e o que muda em 2027",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/11/cbs-e-ibs-entenda-os-novos-impostos-da-reforma-tributaria.ghtml",
-   "fonte": "g1 Economia",
-   "categoria": "Economia",
-   "data": "2026-11-11T18:39:57.000Z"
   }
  ]
 }
