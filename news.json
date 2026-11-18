@@ -1,82 +1,201 @@
 {
- "atualizado": "2026-11-17T18:37:33.887Z",
+ "atualizado": "2026-11-18T02:55:46.130Z",
  "itens": [
   {
-   "titulo": "Empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro; Senado debate restrição",
+   "titulo": "Amazônia Que Eu Quero encerra encontros de embaixadores de 2026 e prepara Caderno de Soluções",
+   "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/17/amazonia-que-eu-quero-encerra-encontros-de-embaixadores-de-2026-e-prepara-caderno-de-solucoes.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-18T02:21:14.000Z"
+  },
+  {
+   "titulo": "Fala AI: IA sabe quando está sendo observada – e pode mudar de comportamento | Pena",
+   "link": "https://olhardigital.com.br/2026/11/17/colunistas/fala-ai-ia-sabe-quando-esta-sendo-observada-e-pode-mudar-de-comportamento-pena/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-18T02:19:44.000Z"
+  },
+  {
+   "titulo": "Santa Luzia, na Grande BH, confirma casos de sarna humana",
+   "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/17/santa-luzia-na-grande-bh-confirma-casos-de-sarna-humana.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-18T02:18:35.000Z"
+  },
+  {
+   "titulo": "Wataru Ogawa, sobrevivente das bombas de Hiroshima e Nagasaki, morre aos 97 anos em SC",
+   "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/17/wataru-ogawa-sobrevivente-das-bombas-de-hiroshima-e-nagasaki-morre-aos-97-anos-em-sc.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-18T02:13:20.000Z"
+  },
+  {
+   "titulo": "Jovem sai da prisão 14 dias após família lutar para provar engano e que crime foi praticado pelo irmão no RJ: 'Tem 15 anos. Dá tempo de corrigir'",
+   "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/11/17/jovem-sai-da-prisao-14-dias-apos-familia-provar-engano-e-apontar-irmao-como-autor-de-crime-no-rj-tem-15-anos-da-tempo-de-corrigir.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-18T02:11:51.000Z"
+  },
+  {
+   "titulo": "IA da OpenAI encontra falha no Java que pode abrir portas para hackers",
+   "link": "https://olhardigital.com.br/2026/11/17/seguranca/ia-da-openai-encontra-falha-no-java-que-pode-abrir-portas-para-hackers/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-18T01:56:05.000Z"
+  },
+  {
+   "titulo": "Loteca hoje: resultado do concurso 1283 e números sorteados",
+   "link": "https://g1.globo.com/loterias/loteca/noticia/2026/11/17/loteca-hoje-resultado-do-concurso-1283-e-numeros-sorteados.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-18T01:56:02.000Z"
+  },
+  {
+   "titulo": "Vaticano exibe ao mundo 3 obras de Aleijadinho",
+   "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/17/vaticano-exibe-ao-mundo-3-obras-de-aleijadinho.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-18T01:53:24.000Z"
+  },
+  {
+   "titulo": "Amazon e Google terão quase 30% da Anthropic após IPO; entenda acordo",
+   "link": "https://olhardigital.com.br/2026/11/17/pro/amazon-e-google-terao-quase-30-da-anthropic-apos-ipo-entenda-acordo/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-18T00:47:05.000Z"
+  },
+  {
+   "titulo": "Trump minimiza onda de apagões tecnológicos que atingiu EUA",
+   "link": "https://olhardigital.com.br/2026/11/17/pro/trump-minimiza-onda-de-apagoes-tecnologicos-que-atingiu-eua/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-18T00:27:20.000Z"
+  },
+  {
+   "titulo": "Mega-Sena 3087 acumula e prêmio vai a R$ 40 milhões; confira os números sorteados",
+   "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/17/mega-sena-concurso-3087-confira-os-numeros-sorteados.ghtml",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
+   "data": "2026-11-18T00:05:09.000Z"
+  },
+  {
+   "titulo": "Indígenas isolados se aproximam de aldeia e governo fica em alerta",
+   "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/indigenas-isolados-se-aproximam-de-aldeia-e-governo-fica-em-alerta",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-17T23:57:00.000Z"
+  },
+  {
+   "titulo": "Defesa pede que Supremo julgue pedido para soltar Vorcaro",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/defesa-pede-que-supremo-julgue-pedido-para-soltar-vorcaro",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-17T23:41:00.000Z"
+  },
+  {
+   "titulo": "Resultado da Mega-Sena de hoje: veja números e ganhadores do concurso 3087 (terça, 17/11)",
+   "link": "https://olhardigital.com.br/2026/11/17/internet-e-redes-sociais/resultado-da-mega-sena-de-hoje-veja-numeros-e-ganhadores-do-concurso-3087-terca-17-11/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-17T23:40:00.000Z"
+  },
+  {
+   "titulo": "Resultado da Lotofácil de hoje: veja números e ganhadores do concurso 3832 (terça, 17/11)",
+   "link": "https://olhardigital.com.br/2026/11/17/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3832-terca-17-11/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-17T23:40:00.000Z"
+  },
+  {
+   "titulo": "STF inaugura símbolo da Justiça na tradição iorubá",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-inaugura-simbolo-da-justica-na-tradicao-ioruba",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-17T23:35:00.000Z"
+  },
+  {
+   "titulo": "Fachin sinaliza que STF pode julgar Lei da Dosimetria neste ano",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-sinaliza-que-stf-pode-julgar-lei-da-dosimetria-neste-ano",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-17T23:01:00.000Z"
+  },
+  {
+   "titulo": "Repórter da Agência Brasil é finalista em prêmio de proteção animal",
+   "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/reporter-da-agencia-brasil-e-finalista-em-premio-de-protecao-animal",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-17T22:40:00.000Z"
+  },
+  {
+   "titulo": "Brasil avança a 2 semifinais do Mundial de tênis de mesa paralímpico",
+   "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/brasil-avanca-2-semifinais-do-mundial-de-tenis-de-mesa-paralimpico",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-17T22:34:00.000Z"
+  },
+  {
+   "titulo": "Como a MediaTek quer levar avanços do Wi-Fi 8 a aparelhos Wi-Fi 7 e 6",
+   "link": "https://tecnoblog.net/noticias/como-a-mediatek-quer-levar-o-wi-fi-8-tambem-a-dispositivos-wi-fi-7-e-6/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-11-17T22:23:50.000Z"
+  },
+  {
+   "titulo": "Black November: Nintendo Switch OLED tem oferta em até 12x da loja Magalu",
+   "link": "https://tecnoblog.net/achados/black-november-nintendo-switch-oled-tem-oferta-em-ate-12x-da-loja-magalu/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-11-17T21:39:28.000Z"
+  },
+  {
+   "titulo": "Nvidia dobra lucro para US$ 65,3 bilhões em primeiro balanço após saída de Jensen Huang",
+   "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/balanco-nvidia.ghtml",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
+   "data": "2026-11-17T21:36:15.000Z"
+  },
+  {
+   "titulo": "Huawei Watch Fit 5 com GPS tem 54% OFF em até 10x no mês da Black 2026",
+   "link": "https://tecnoblog.net/achados/huawei-watch-fit-5-com-gps-tem-54-off-em-ate-10x-no-mes-da-black-2026/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-11-17T20:56:20.000Z"
+  },
+  {
+   "titulo": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/17/o-que-e-o-ajuste-fiscal-que-o-mercado-cobra-de-lula-entenda-por-que-ele-desagrada-muita-gente-e-divide-economistas.ghtml",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
+   "data": "2026-11-17T20:28:31.000Z"
+  },
+  {
+   "titulo": "Como desbloquear uma pessoa no TikTok",
+   "link": "https://tecnoblog.net/responde/como-desbloquear-uma-pessoa-no-tiktok/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-11-17T20:06:31.000Z"
+  },
+  {
+   "titulo": "Vazamento pode ter revelado tela do iPhone comemorativo",
+   "link": "https://tecnoblog.net/noticias/vazamento-pode-ter-revelado-tela-de-iphone-comemorativo/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-11-17T19:50:39.000Z"
+  },
+  {
+   "titulo": "Serviços da Apple ficam inacessíveis nesta terça-feira",
+   "link": "https://tecnoblog.net/noticias/alguns-servicos-da-apple-ficam-inacessiveis-nesta-terca-feira/",
+   "fonte": "Tecnoblog",
+   "categoria": "Tecnologia",
+   "data": "2026-11-17T19:35:49.000Z"
+  },
+  {
+   "titulo": "Empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro; Senado debate restrição no ajuste fiscal",
    "link": "https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml",
    "fonte": "g1 Economia",
    "categoria": "Economia",
    "data": "2026-11-17T18:32:53.000Z"
-  },
-  {
-   "titulo": "Motociclista atropelada é retirada debaixo de carro em Santos; VÍDEO",
-   "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/17/motociclista-atropelada-e-retirada-debaixo-de-carro-em-santos-video.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-17T18:30:00.000Z"
-  },
-  {
-   "titulo": "E se o Parque dos Poderes pudesse fazer parte da sua casa? Conheça o Verano",
-   "link": "https://g1.globo.com/ms/mato-grosso-do-sul/especial-publicitario/financial-imobiliaria/noticia/2026/11/17/e-se-o-parque-dos-poderes-pudesse-fazer-parte-da-sua-casa-conheca-o-verano.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-17T18:28:02.000Z"
-  },
-  {
-   "titulo": "Jacaré é resgatado em Cabo Frio por equipes ambientais e solto em rio",
-   "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/17/jacare-e-resgatado-em-cabo-frio-por-equipes-ambientais-e-solto-em-rio.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-17T18:24:18.000Z"
-  },
-  {
-   "titulo": "Mãe e tio de menina morta com sinais de agressão têm prisão preventiva decretada; veja como identificar violência infantil",
-   "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/17/mae-e-tio-de-menina-morta-com-sinais-de-agressao-tem-prisao-preventiva-decretada-veja-como-identificar-violencia-infantil.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-17T18:23:27.000Z"
-  },
-  {
-   "titulo": "Protestos no Irã pedem volta da monarquia após morte de 13 trabalhadores em acidente de ônibus",
-   "link": "https://g1.globo.com/mundo/noticia/2026/11/17/protestos-ira-monarquia.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-17T18:22:40.000Z"
-  },
-  {
-   "titulo": "Dia Integrar 2026 da Jacobina Mineração reúne cerca de 10 mil pessoas",
-   "link": "https://g1.globo.com/ba/bahia/especial-publicitario/jacobina-mineracao/noticia/2026/11/17/dia-integrar-2026-da-jacobina-mineracao-reune-cerca-de-10-mil-pessoas.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-17T18:21:50.000Z"
-  },
-  {
-   "titulo": "Hacker que vazou GTA 6 usou Fire TV Stick para invadir a Rockstar",
-   "link": "https://tecnoblog.net/noticias/hacker-que-vazou-gta-6-usou-fire-tv-stick-para-invadir-a-rockstar/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-11-17T18:08:33.000Z"
-  },
-  {
-   "titulo": "Casa mais inteligente: confira uma seleção de smart speakers com Alexa em oferta na Amazon",
-   "link": "https://olhardigital.com.br/2026/11/17/reviews/casa-mais-inteligente-confira-uma-selecao-de-smart-speakers-com-alexa-em-oferta-na-amazon/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-17T18:03:17.000Z"
-  },
-  {
-   "titulo": "Voyager 1 está prestes a atingir um dia-luz de distância da Terra – relembre a história da missão",
-   "link": "https://olhardigital.com.br/2026/11/17/ciencia-e-espaco/voyager-1-esta-prestes-a-atingir-um-dia-luz-de-distancia-da-terra-relembre-a-historia-da-missao/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-17T18:00:02.000Z"
-  },
-  {
-   "titulo": "GTA 6: streamer brasileiro transforma carro em veículo do jogo antes do lançamento",
-   "link": "https://olhardigital.com.br/2026/11/17/games-e-consoles/gta-6-skorpion-gamer-carro-pichau-miami/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-17T18:00:00.000Z"
   },
   {
    "titulo": "STJ suspende decisão que impedia cobrança de taxa da Uber para motoristas em todo o país",
@@ -86,130 +205,11 @@
    "data": "2026-11-17T17:56:37.000Z"
   },
   {
-   "titulo": "RJ: polo petrolífero, Macaé voltará a receber voos comerciais",
-   "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/polo-petrolifero-macae-voltara-receber-voos-comerciais",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-17T17:53:00.000Z"
-  },
-  {
-   "titulo": "Brasil, UIT e UNESCO criam centro para capacitar países em IA e clima",
-   "link": "https://olhardigital.com.br/2026/11/17/inteligencia-artificial/brasil-uit-e-unesco-criam-centro-para-capacitar-paises-em-ia-e-clima/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-17T17:49:00.000Z"
-  },
-  {
-   "titulo": "Meta lança Achados, app para comprar e vender itens no Brasil",
-   "link": "https://tecnoblog.net/noticias/meta-lanca-achados-app-para-comprar-e-vender-itens-no-brasil/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-11-17T17:44:06.000Z"
-  },
-  {
-   "titulo": "Som que transforma qualquer ambiente: veja uma seleção de soundbars em promoção na Amazon",
-   "link": "https://olhardigital.com.br/2026/11/17/reviews/som-que-transforma-qualquer-ambiente-veja-uma-selecao-de-soundbars-em-promocao-na-amazon/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-17T17:43:17.000Z"
-  },
-  {
-   "titulo": "The Game Awards 2026: GTA 6 disputa Jogo do Ano; veja todos os indicados",
-   "link": "https://olhardigital.com.br/2026/11/17/games-e-consoles/the-game-awards-2026-indicados-lista-completa-gta-6/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-17T17:37:07.000Z"
-  },
-  {
-   "titulo": "Como bloquear no TikTok: passo a passo do app ou PC",
-   "link": "https://tecnoblog.net/responde/como-bloquear-no-tiktok-passo-a-passo-do-app-ou-pc/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-11-17T17:28:06.000Z"
-  },
-  {
-   "titulo": "Durigan defende alíquota da reforma e estima média efetiva de 8,5%",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-defende-aliquota-da-reforma-e-estima-media-efetiva-de-85",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-17T17:26:00.000Z"
-  },
-  {
    "titulo": "Na expectativa de votar ajuste fiscal na Câmara, governo retira urgência de projeto sobre criminalização de bets",
    "link": "https://g1.globo.com/politica/noticia/2026/11/17/na-expectativa-de-votar-ajuste-fiscal-na-camara-governo-retira-urgencia-de-projeto-sobre-criminalizacao-de-bets.ghtml",
    "fonte": "g1 Economia",
    "categoria": "Economia",
    "data": "2026-11-17T17:24:06.000Z"
-  },
-  {
-   "titulo": "Mais de 7,6 mil candidatos farão novo exame nacional que virou porta de entrada para concursos de cartórios",
-   "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/17/exame-nacional-cartorios-quarta-edicao-prova-novembro.ghtml",
-   "fonte": "g1 Economia",
-   "categoria": "Economia",
-   "data": "2026-11-17T17:21:39.000Z"
-  },
-  {
-   "titulo": "Ministro da Fazenda diz que pacote fiscal é só o 'primeiro passo' e prega ajuste gradual 'sem negacionismo' para baixar juros",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/17/ministro-da-fazenda-que-pacote-e-so-o-primeiro-passo-e-prega-ajuste-gradual-sem-negacionismo-para-baixar-juro.ghtml",
-   "fonte": "g1 Economia",
-   "categoria": "Economia",
-   "data": "2026-11-17T17:10:51.000Z"
-  },
-  {
-   "titulo": "Durigan diz que reforma tributária pode ter 'pequeno impacto' na inflação e quer reduzir tributo sobre a folha de pagamentos",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/17/durigan-diz-que-reforma-tributaria-pode-ter-pequeno-impacto-na-inflacao-e-quer-reduzir-tributo-sobre-a-folha-de-pagamentos.ghtml",
-   "fonte": "g1 Economia",
-   "categoria": "Economia",
-   "data": "2026-11-17T16:53:38.000Z"
-  },
-  {
-   "titulo": "Vini Jr. brilha e Brasil goleia Singapura em último confronto do ano",
-   "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/vini-jr-brilha-e-brasil-goleia-singapura-em-ultimo-confronto-do-ano",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-17T15:58:00.000Z"
-  },
-  {
-   "titulo": "SBPC e ABC defendem 3% do PIB e cota regional para ciência e inovação",
-   "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/sbpc-e-abc-defendem-3-do-pib-e-cota-regional-para-ciencia-e-inovacao",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-17T15:50:00.000Z"
-  },
-  {
-   "titulo": "Cade deve abrir processo contra Apple por restrições ao NFC do iPhone",
-   "link": "https://tecnoblog.net/noticias/cade-deve-abrir-processo-contra-apple-por-restricoes-ao-nfc-do-iphone/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-11-17T15:44:39.000Z"
-  },
-  {
-   "titulo": "Reforma tributária: Receita descarta punição a erros de boa-fé",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/reforma-tributaria-receita-descarta-punicao-erros-de-boa-fe",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-17T15:30:00.000Z"
-  },
-  {
-   "titulo": "TV Samsung The Frame de 55″ registra quase 30% OFF antes da Black Friday",
-   "link": "https://tecnoblog.net/achados/tv-samsung-the-frame-de-55-registra-quase-30-off-antes-da-black-friday/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-11-17T15:15:53.000Z"
-  },
-  {
-   "titulo": "Senha mais usada do mundo em 2026 é velha conhecida",
-   "link": "https://tecnoblog.net/noticias/senha-mais-usada-do-mundo-em-2026-e-velha-conhecida/",
-   "fonte": "Tecnoblog",
-   "categoria": "Tecnologia",
-   "data": "2026-11-17T15:12:30.000Z"
-  },
-  {
-   "titulo": "PF cria divisão especializada em integridade esportiva",
-   "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/pf-faz-parceria-com-ministerio-para-combater-fraudes-no-esporte",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-17T14:30:00.000Z"
   }
  ]
 }
