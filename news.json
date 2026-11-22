@@ -1,47 +1,166 @@
 {
- "atualizado": "2026-11-22T06:57:01.900Z",
+ "atualizado": "2026-11-22T17:11:44.978Z",
  "itens": [
   {
-   "titulo": "‘Mini’ perereca chama atenção por canto e vira descoberta científica da UFV",
-   "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/22/mini-perereca-chama-atencao-por-canto-e-vira-descoberta-cientifica-da-ufv.ghtml",
+   "titulo": "Morre no hospital homem baleado em Barra Mansa",
+   "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/22/morre-homem-baleado-em-barra-mansa.ghtml",
    "fonte": "g1",
    "categoria": "Geral",
-   "data": "2026-11-22T06:00:00.000Z"
+   "data": "2026-11-22T17:02:16.000Z"
+  },
+  {
+   "titulo": "Chuva forte, ventos de até 60 km/h e granizo: Vale do Paraíba e região têm alertas para tempestades",
+   "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/22/chuva-forte-ventos-de-ate-60-kmh-e-granizo-vale-do-paraiba-e-regiao-tem-alertas-para-tempestades.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-22T17:01:31.000Z"
+  },
+  {
+   "titulo": "Homem morre atropelado por ônibus em Florianópolis; vítima carregava documento de alta hospitalar do mesmo dia",
+   "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/22/homem-morre-atropelado-por-onibus-beira-mar-norte-florianopolis.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-22T17:00:01.000Z"
+  },
+  {
+   "titulo": "Adolescente sofre traumatismo craniano ao bater bicicleta elétrica em monte de barro no AC; VÍDEO",
+   "link": "https://g1.globo.com/ac/acre/noticia/2026/11/22/adolescente-sofre-traumatismo-craniano-ao-bater-bicicleta-eletrica-em-monte-de-barro-no-ac-video.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-22T16:57:01.000Z"
+  },
+  {
+   "titulo": "'Eu gosto de estudar': médico de 67 anos presta vestibular da Unesp para tentar vaga em história",
+   "link": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/noticia/2026/11/22/eu-gosto-de-estudar-medico-de-67-anos-presta-vestibular-da-unesp-para-tentar-vaga-em-historia.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-22T16:57:01.000Z"
+  },
+  {
+   "titulo": "VÍDEO: motorista desvia de cão, confunde pedais e invade entrada de estádio em distrito de Rio Preto",
+   "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/22/video-motorista-desvia-de-cao-confunde-pedais-e-invade-entrada-de-estadio-em-distrito-de-rio-preto.ghtml",
+   "fonte": "g1",
+   "categoria": "Geral",
+   "data": "2026-11-22T16:56:16.000Z"
+  },
+  {
+   "titulo": "Brasil fecha Mundial Júnior de Judô com bronze por equipes mistas",
+   "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/brasil-fecha-mundial-junior-de-judo-com-bronze-por-equipes-mistas",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-22T16:28:00.000Z"
+  },
+  {
+   "titulo": "Mega-Sena acumula e deverá pagar 65 milhões no próximo sorteio",
+   "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-acumula-e-devera-pagar-65-milhoes-no-proximo-sorteio",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-22T16:19:00.000Z"
+  },
+  {
+   "titulo": "COP31 termina sem acordo final após impasse sobre o fim dos combustíveis fósseis",
+   "link": "https://olhardigital.com.br/2026/11/22/ciencia-e-espaco/cop31-termina-sem-acordo-final-apos-impasse-sobre-o-fim-dos-combustiveis-fosseis/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-22T16:07:57.000Z"
+  },
+  {
+   "titulo": "Com impasse sobre combustíveis fósseis, COP31 termina sem acordo final",
+   "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/com-impasse-sobre-combustiveis-fosseis-cop31-termina-sem-acordo-final",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-22T15:59:00.000Z"
+  },
+  {
+   "titulo": "Chuvas no RS afetam mais de 25 mil pessoas em 42 cidades",
+   "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/chuvas-no-rs-afetam-mais-de-25-mil-pessoas-em-42-cidades",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-22T15:35:00.000Z"
+  },
+  {
+   "titulo": "Após temporal, governo reconhece calamidade pública em Tupanciretã",
+   "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/apos-temporal-governo-reconhece-calamidade-publica-em-tupancireta",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-22T14:53:00.000Z"
+  },
+  {
+   "titulo": "Resultado da Lotofácil de hoje: veja números e ganhadores do concurso 3835 (domingo, 22/11)",
+   "link": "https://olhardigital.com.br/2026/11/22/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3835-domingo-22-11/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-22T14:40:21.000Z"
+  },
+  {
+   "titulo": "Resultado da Mega-Sena de hoje: veja números e ganhadores do concurso 3089: (domingo, 22/11)",
+   "link": "https://olhardigital.com.br/2026/11/22/internet-e-redes-sociais/resultado-da-mega-sena-de-hoje-veja-numeros-e-ganhadores-do-concurso-3089-domingo-22-11/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-22T14:34:05.000Z"
+  },
+  {
+   "titulo": "Boca Juniors vence Sul-Americana sobre o Atlético-MG",
+   "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/boca-juniors-vence-sul-americana-sobre-o-atletico-mg",
+   "fonte": "Agência Brasil",
+   "categoria": "Geral",
+   "data": "2026-11-22T14:28:00.000Z"
+  },
+  {
+   "titulo": "Mega-Sena 3089 acumula e prêmio vai a R$ 65 milhões; confira os números sorteados",
+   "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-confira-os-numeros-sorteados.ghtml",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
+   "data": "2026-11-22T14:05:01.000Z"
+  },
+  {
+   "titulo": "Contabilidade da Nvidia é alvo de investigação nos Estados Unidos",
+   "link": "https://olhardigital.com.br/2026/11/22/pro/contabilidade-da-nvidia-e-alvo-de-investigacao-nos-estados-unidos/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-22T13:58:23.000Z"
+  },
+  {
+   "titulo": "Falhas em atualizações e brechas de segurança: o que está por trás dos apagões tecnológicos",
+   "link": "https://olhardigital.com.br/2026/11/22/carros-e-tecnologia/falhas-em-atualizacoes-e-brechas-de-seguranca-o-que-esta-por-tras-dos-apagoes-tecnologicos/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-22T12:59:55.000Z"
+  },
+  {
+   "titulo": "Jogos de hoje (22/11/26): onde assistir futebol ao vivo e horários das partidas",
+   "link": "https://olhardigital.com.br/2026/11/22/internet-e-redes-sociais/jogos-de-hoje-22-11-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/",
+   "fonte": "Olhar Digital",
+   "categoria": "Tecnologia",
+   "data": "2026-11-22T11:00:00.000Z"
+  },
+  {
+   "titulo": "Ovelhas entre painéis solares? Entenda a tendência que une geração de energia e criação de animais",
+   "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/22/ovelhas-entre-paineis-solares-entenda-a-tendencia-que-une-geracao-de-energia-e-criacao-de-animais.ghtml",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
+   "data": "2026-11-22T07:00:01.000Z"
+  },
+  {
+   "titulo": "Nova espécie de perereca é descoberta em Minas Gerais após cientista ouvir canto incomum",
+   "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/22/nova-especie-de-perereca-e-descoberta-em-minas-gerais-apos-cientista-ouvir-canto-incomum.ghtml",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
+   "data": "2026-11-22T07:00:00.000Z"
   },
   {
    "titulo": "A falha crítica descoberta na linguagem de programação usada por 90% das grandes empresas do mundo",
    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/22/a-falha-critica-descoberta-na-linguagem-de-programacao-usada-por-90-das-grandes-empresas-do-mundo.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
    "data": "2026-11-22T06:00:00.000Z"
   },
   {
    "titulo": "Há 3.000 anos, trabalhadores do Egito fizeram uma greve por salários atrasados; conheça a história",
    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/22/ha-3000-anos-trabalhadores-do-egito-fizeram-uma-greve-por-salarios-atrasados-conheca-a-historia.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
+   "fonte": "g1 Economia",
+   "categoria": "Economia",
    "data": "2026-11-22T06:00:00.000Z"
-  },
-  {
-   "titulo": "'Tinha muito medo de não conseguir', diz mãe de bebê que nasceu com 22 semanas no RS",
-   "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/22/tinha-muito-medo-de-nao-conseguir-diz-mae-de-bebe-que-nasceu-com-22-semanas-no-rs.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-22T05:00:00.000Z"
-  },
-  {
-   "titulo": "Entenda as decisões do 'Crime da 113 Sul' que inocentaram Mairlon e anularam condenação de Adriana Villela",
-   "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/22/entenda-as-decisoes-do-crime-da-113-sul-que-inocentaram-mairlon-e-anularam-condenacao-de-adriana-villela.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-22T05:00:00.000Z"
-  },
-  {
-   "titulo": "De laboratório a biofábrica: casal vai da pesquisa a negócio e produz até 9 milhões de mudas por ano",
-   "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/22/de-laboratorio-a-biofabrica-casal-vai-da-pesquisa-a-negocio-e-produz-ate-9-milhoes-de-mudas-por-ano.ghtml",
-   "fonte": "g1",
-   "categoria": "Geral",
-   "data": "2026-11-22T05:00:00.000Z"
   },
   {
    "titulo": "13º salário na conta: como decidir entre pagar dívidas, investir ou aproveitar as compras",
@@ -49,111 +168,6 @@
    "fonte": "g1 Economia",
    "categoria": "Economia",
    "data": "2026-11-22T05:00:00.000Z"
-  },
-  {
-   "titulo": "Mega-Sena 3089 pode pagar R$ 45 milhões neste domingo; g1 transmite ao vivo",
-   "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-pode-pagar-r-45-milhoes-neste-domingo-g1-transmite-ao-vivo.ghtml",
-   "fonte": "g1 Economia",
-   "categoria": "Economia",
-   "data": "2026-11-22T03:00:01.000Z"
-  },
-  {
-   "titulo": "Câmara deve votar projeto de ajuste fiscal nesta segunda",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda.ghtml",
-   "fonte": "g1 Economia",
-   "categoria": "Economia",
-   "data": "2026-11-22T03:00:00.000Z"
-  },
-  {
-   "titulo": "Brasil recebe 7,5 milhões de turistas estrangeiros e supera meta do ano com dois meses de antecedência",
-   "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/brasil-recebe-75-milhoes-de-turistas-estrangeiros-e-supera-meta-do-ano-com-dois-meses-de-antecedencia.ghtml",
-   "fonte": "g1 Economia",
-   "categoria": "Economia",
-   "data": "2026-11-22T01:29:23.000Z"
-  },
-  {
-   "titulo": "Dez vezes Flamengo",
-   "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/dez-vezes-flamengo",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-21T22:49:00.000Z"
-  },
-  {
-   "titulo": "Sobe para 4 o número de mortos em Tupanciretã, no Sul",
-   "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/sobe-para-4-o-numero-de-mortos-em-tupancireta-no-sul",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-21T22:39:00.000Z"
-  },
-  {
-   "titulo": "Deputada Talíria Petrone é ameaçada de morte e violência sexual",
-   "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/deputada-taliria-petrone-e-ameacada-de-morte-e-violencia-sexual",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-21T21:59:00.000Z"
-  },
-  {
-   "titulo": "Flamengo empata com Palmeiras e é campeão brasileiro de 2026",
-   "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/flamengo-empata-com-palmeiras-e-e-campeao-brasileiro-de-2026",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-21T21:39:00.000Z"
-  },
-  {
-   "titulo": "Força Nacional do SUS avalia instalar posto médico em Tupanciretã",
-   "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/forca-nacional-do-sus-avalia-instalar-posto-medico-em-tupancireta",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-21T21:28:00.000Z"
-  },
-  {
-   "titulo": "Mostra apresenta legado de Milton Santos para pensar o Brasil",
-   "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/mostra-apresenta-legado-de-milton-santos-para-pensar-o-brasil",
-   "fonte": "Agência Brasil",
-   "categoria": "Geral",
-   "data": "2026-11-21T21:04:00.000Z"
-  },
-  {
-   "titulo": "BepiColombo faz manobra decisiva para entrar na órbita de Mercúrio",
-   "link": "https://olhardigital.com.br/2026/11/21/ciencia-e-espaco/bepicolombo-faz-manobra-decisiva-para-entrar-na-orbita-de-mercurio/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-21T19:45:31.000Z"
-  },
-  {
-   "titulo": "Hackers invadem sistemas do FBI; Trump comenta o caso",
-   "link": "https://olhardigital.com.br/2026/11/21/seguranca/hackers-invadem-sistemas-do-fbi-trump-comenta-o-caso/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-21T19:11:18.000Z"
-  },
-  {
-   "titulo": "Anthropic e o paradoxo do IPO bilionário",
-   "link": "https://olhardigital.com.br/2026/11/21/pro/anthropic-e-o-paradoxo-do-ipo-bilionario/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-21T17:29:14.000Z"
-  },
-  {
-   "titulo": "Países não chegam a acordo na ONU sobre armas autônomas",
-   "link": "https://olhardigital.com.br/2026/11/21/robotica/paises-nao-chegam-a-acordo-na-onu-sobre-armas-autonomas/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-21T16:40:12.000Z"
-  },
-  {
-   "titulo": "SpaceX vai aposentar primeira Starship capturada por braços mecânicos",
-   "link": "https://olhardigital.com.br/2026/11/21/ciencia-e-espaco/spacex-vai-aposentar-primeira-starship-capturada-por-bracos-mecanicos/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-21T15:29:39.000Z"
-  },
-  {
-   "titulo": "União Europeia propõe imposto de 3% sobre receitas de big techs",
-   "link": "https://olhardigital.com.br/2026/11/21/pro/uniao-europeia-propoe-imposto-de-3-sobre-receitas-de-big-techs/",
-   "fonte": "Olhar Digital",
-   "categoria": "Tecnologia",
-   "data": "2026-11-21T14:50:04.000Z"
   },
   {
    "titulo": "Black November: Lenovo Idea Tab Pro Gen 2 aparece com maior desconto registrado",
